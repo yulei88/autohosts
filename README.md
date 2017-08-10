@@ -5,3 +5,8 @@
 
 2）取下data/hosts文件，提供给墙内的服务器使用
 
+
+墙外的服务器执行以下的定时任务：
+
+tools/hostsupdate.sh data/hosts.lst > data/hosts
+

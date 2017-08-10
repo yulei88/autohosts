@@ -4,6 +4,9 @@
 
 hostslist="$1"                               # 参考的host来源
 
+
+echo '127.0.0.1	localhost'
+echo '::1     localhost ip6-localhost ip6-loopback'
 cat $hostslist | while read line; do
     if [[ ${line:0:1} == '#' ]] || [[ ${#line} == 0 ]] \
 	        || [[ $(echo $line | grep localhost) != "" ]] \

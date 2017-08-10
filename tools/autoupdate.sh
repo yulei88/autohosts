@@ -12,5 +12,5 @@ $myhostsupdate $myhostslist > $myhosts
 
 mycomment=`date`
 
-git commit $myhost -m "$mycomment"
+git commit $myhosts -m "$mycomment"
 git push

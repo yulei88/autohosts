@@ -14,3 +14,6 @@ data/hosts是每天最新取得的hosts文件，任何操作系统皆可使用�
 
 tools/hostsupdate.sh data/hosts.lst > data/hosts
 
+Android下，推荐此程序（需要root）
+https://github.com/ChinaHuibinWang/autohosts
+

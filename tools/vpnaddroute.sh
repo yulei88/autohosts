@@ -17,6 +17,8 @@
 #   /tmp/vpnroutedel.sh   手工删除路由的shell程序
 # 好了，我们只要先连接VPN，注意VPN要设置成不使用缺省的网关，然后，执行本shell工具，再用sudo执行/tmp/vpnrouteadd.sh 
 # 就能够达成上术目标，也即，只有那些被封的网址通过VPN访问，一般的网址仍然正常访问
+#
+# 特别注意，本工具与autohosts工具要配合使用，因为本工具需要从/etc/hosts中提取IP地址。所以，所有的要设置的域名必须在/etc/hosts文件中有对应
 hostfile=~/hosts.lst
 gatewayip=192.168.118.1
 

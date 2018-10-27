@@ -7,6 +7,7 @@ myhosts='/home/yulei/autohosts/data/hosts'
 
 shpath=$(cd `dirname $0`; pwd)
 cd $shpath
+git pull
 
 $myhostsupdate $myhostslist > $myhosts
 

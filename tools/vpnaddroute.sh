@@ -6,7 +6,7 @@ if [[ $# != 1  ]];then
 	exit
 fi
 
-if [[ $1 == '--help' ]] || $1 == 'help' ]]; then
+if [[ $1 == '--help' ]] || [[ $1 == 'help' ]]; then
 	cat <<EOF
 用法：$0 gatewayip
  这个工具用来设定越墙时，哪些地址需要通过可越墙的网关

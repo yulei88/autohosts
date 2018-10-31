@@ -19,4 +19,4 @@ cat $hostslist | while read line; do
         fi
     fi
 done
-echo '#Last updated: ' `date`
+echo '#Last updated: ' `date --iso-8601=seconds`

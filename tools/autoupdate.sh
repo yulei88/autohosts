@@ -19,5 +19,5 @@ $myrouteupdate $myhosts $myvpnrouteaddshell $myvpnrouteaddbat
 
 mycomment=`date`
 
-git commit $myhosts -m "$mycomment"
+git commit $myhosts $myvpnrouteaddshell $myvpnrouteaddbat -m "$mycomment"
 git push

@@ -50,6 +50,8 @@ for targethost in ${ARRAY[@]};do
         echo route add -host $targethost gw '$1' >> $outshell
         echo route add $targethost '%1' >> $outbat
 done
+echo route add -host 8.8.8.8 gw '$1' >> $outshell
+echo route add 8.8.8.8 gw '%1' >> $outbat
 chmod 755 $outshell
 echo '#Last updated: ' `date --iso-8601=seconds` >>  $outshell
 echo 'REM Last updated: ' `date --iso-8601=seconds` >>  $outbat

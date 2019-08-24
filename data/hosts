@@ -7,28 +7,28 @@
 # Amazon AWS Start
 13.224.148.180     aws.amazon.com
 54.239.30.25       console.aws.amazon.com
-52.119.222.139     ap-northeast-1.console.aws.amazon.com
+54.239.96.90       ap-northeast-1.console.aws.amazon.com
 54.240.226.19      ap-southeast-1.console.aws.amazon.com
-52.119.210.255     ap-southeast-2.console.aws.amazon.com
-54.239.54.102      eu-central-1.console.aws.amazon.com
+52.119.210.50      ap-southeast-2.console.aws.amazon.com
+54.239.54.114      eu-central-1.console.aws.amazon.com
 177.72.244.194     sa-east-1.console.aws.amazon.com
-54.239.38.117      eu-west-1.console.aws.amazon.com
-176.32.114.59      us-west-1.console.aws.amazon.com
-54.240.254.246     us-west-2.console.aws.amazon.com
-54.239.31.188      s3-console-us-standard.console.aws.amazon.com
-52.217.33.22       s3.amazonaws.com
-52.219.0.76        s3-ap-northeast-1.amazonaws.com
-52.219.40.166      s3-ap-southeast-1.amazonaws.com
-52.95.134.19       s3-ap-southeast-2.amazonaws.com
-52.219.73.20       s3-eu-central-1.amazonaws.com
-52.218.65.124      s3-eu-west-1.amazonaws.com
-52.95.163.54       s3-sa-east-1.amazonaws.com
-52.219.112.24      s3-us-west-1.amazonaws.com
-54.231.177.4       s3-us-west-2.amazonaws.com
-52.216.179.11      github-cloud.s3.amazonaws.com
-52.216.179.11      github-com.s3.amazonaws.com
-52.216.179.11      github-production-release-asset-2e65be.s3.amazonaws.com
-52.216.179.11      github-production-user-asset-6210df.s3.amazonaws.com
+54.239.38.125      eu-west-1.console.aws.amazon.com
+176.32.112.45      us-west-1.console.aws.amazon.com
+54.240.254.239     us-west-2.console.aws.amazon.com
+54.239.31.128      s3-console-us-standard.console.aws.amazon.com
+52.216.134.85      s3.amazonaws.com
+52.219.68.84       s3-ap-northeast-1.amazonaws.com
+52.219.32.1        s3-ap-southeast-1.amazonaws.com
+52.95.134.12       s3-ap-southeast-2.amazonaws.com
+52.219.74.64       s3-eu-central-1.amazonaws.com
+52.218.97.218      s3-eu-west-1.amazonaws.com
+52.95.164.26       s3-sa-east-1.amazonaws.com
+52.219.20.41       s3-us-west-1.amazonaws.com
+52.218.209.48      s3-us-west-2.amazonaws.com
+52.216.93.91       github-cloud.s3.amazonaws.com
+52.216.93.91       github-com.s3.amazonaws.com
+52.216.93.91       github-production-release-asset-2e65be.s3.amazonaws.com
+52.216.93.91       github-production-user-asset-6210df.s3.amazonaws.com
 # Amazon AWS End
 
 # Android Start
@@ -42,20 +42,20 @@
 172.217.26.46      market.android.com
 172.217.31.174     r.android.com
 172.217.31.174     source.android.com
-216.58.197.174     android.clients.google.com
+216.58.197.206     android.clients.google.com
 172.217.26.46      android-market.l.google.com
-216.58.197.174     android.l.google.com
+216.58.197.206     android.l.google.com
 172.217.25.97      android.googleblog.com
 172.217.25.97      androidstudio.googleblog.com
 172.217.25.97      android-developers.googleblog.com
 172.217.25.97      android-developers.blogspot.com
-172.217.25.97      android-developers.blogspot.hk
+216.58.197.225     android-developers.blogspot.hk
 172.217.25.97      officialandroid.blogspot.com
 64.233.189.82      android.googlecode.com
-74.125.23.82       android.googlesource.com
-108.177.125.82     android-review.googlesource.com
+108.177.125.82     android.googlesource.com
+64.233.189.82      android-review.googlesource.com
 172.217.161.65     androidmarket.googleusercontent.com
-172.217.25.106     android.googleapis.com
+172.217.31.170     android.googleapis.com
 172.217.31.148     jmoore-dot-android-experiments.appspot.com
 172.217.31.147     b.android.com
 172.217.31.147     m.android.com
@@ -66,12 +66,12 @@
 
 # Apkpure Start
 104.20.82.194      apkpure.com
-104.20.83.194      a.apkpure.com
+104.20.82.194      a.apkpure.com
 104.20.83.194      download.apkpure.com
-104.20.83.194      m.apkpure.com
+104.20.82.194      m.apkpure.com
 104.20.82.194      i.apkpure.com
 104.20.83.194      static.apkpure.com
-104.20.82.194      translate.apkpure.com
+104.20.83.194      translate.apkpure.com
 # Apkpure End
 
 # Archive Start
@@ -85,11 +85,11 @@
 # Archive End
 
 # Armorgames Start
-99.86.129.122      agi.armorgames.com
-99.86.129.51       armatars.armorgames.com
-99.86.129.120      cache.armorgames.com
+99.86.129.51       agi.armorgames.com
+99.86.129.8        armatars.armorgames.com
+99.86.129.29       cache.armorgames.com
 104.20.53.56       gamemedia.armorgames.com
-104.20.53.56       quests.armorgames.com
+104.20.54.56       quests.armorgames.com
 # Armorgames End
 
 # autodraw Start
@@ -97,7 +97,7 @@
 # autodraw End
 
 # bandwagonhost.com Start
-104.20.6.63        bandwagonhost.com
+104.20.7.63        bandwagonhost.com
 # bandwagonhost.com End
 
 # Box.com Start
@@ -109,18 +109,18 @@
 103.116.4.196      box.com
 103.116.4.200      public.boxcloud.com
 103.116.4.207      notes.services.box.com
-104.18.103.56      cdn01.boxcdn.net
+104.16.74.20       cdn01.boxcdn.net
 208.74.205.139     support.box.com
 # Box.com End
 
 # BundleStars Start
-104.25.67.118      bundlestars.com
-13.224.143.129     cdn-images.bundlestars.com
+104.25.68.118      bundlestars.com
+13.224.143.23      cdn-images.bundlestars.com
 104.25.67.118      support.bundlestars.com
 # BundleStars End
 
 # Cloudfront.net Start
-13.224.151.126     d3c33hcgiwev3.cloudfront.net
+13.224.151.71      d3c33hcgiwev3.cloudfront.net
 # Cloudfront.net End
 
 # culturalspot Start
@@ -128,21 +128,21 @@
 # culturalspot End
 
 # Disqus Start
-151.101.192.134    disqus.com
+151.101.128.134    disqus.com
 151.101.40.134     www.disqus.com
 151.101.40.134     apkpure.disqus.com
-151.101.24.134     content.disqus.com
-151.101.40.134     docs.disqus.com
+151.101.40.134     content.disqus.com
+151.101.24.134     docs.disqus.com
 151.101.40.134     dropbox.disqus.com
 151.101.40.134     referrer.disqus.com
 151.101.40.64      glitter.services.disqus.com
 151.101.40.64      links.services.disqus.com
 169.54.206.44      realtime.services.disqus.com
 151.101.40.134     help.disqus.com
-104.17.135.180     about.disqus.com
-104.17.135.180     blog.disqus.com
-104.17.135.180     publishers.disqus.com
-104.16.79.166      c.disquscdn.com
+104.17.133.180     about.disqus.com
+104.17.133.180     blog.disqus.com
+104.17.133.180     publishers.disqus.com
+104.16.77.166      c.disquscdn.com
 151.101.190.49     a.disquscdn.com
 151.101.40.134     nytchinese.disqus.com
 # Disqus End
@@ -158,16 +158,16 @@
 162.125.33.7       api-d.dropbox.com
 162.125.33.4       api.v.dropbox.com
 162.125.33.4       api-notify.dropbox.com
-99.86.129.90       aem.dropbox.com
+99.86.129.11       aem.dropbox.com
 162.125.80.8       api-content.dropbox.com
 162.125.80.5       api-content-photos.dropbox.com
-13.224.143.128     blogs.dropbox.com
+13.224.143.52      blogs.dropbox.com
 162.125.80.4       block.dropbox.com
 162.125.33.2       block.v.dropbox.com
 162.125.34.129     bolt.dropbox.com
 162.125.80.3       client.dropbox.com
 162.125.80.3       client-cf.dropbox.com
-162.125.34.8       client.v.dropbox.com
+162.125.33.5       client.v.dropbox.com
 162.125.80.3       client-lb.dropbox.com
 162.125.80.3       client-web.dropbox.com
 162.125.33.7       d.dropbox.com
@@ -175,8 +175,8 @@
 162.125.80.6       dl.dropbox.com
 162.125.80.6       dl-web.dropbox.com
 162.125.80.6       dl-doc.dropbox.com
-52.20.72.191       dl-debug.dropbox.com
-13.224.143.112     forums.dropbox.com
+34.195.170.150     dl-debug.dropbox.com
+13.224.143.109     forums.dropbox.com
 99.86.129.37       linux.dropbox.com
 162.125.80.2       m.dropbox.com
 13.224.143.53      marketing.dropbox.com
@@ -188,25 +188,25 @@
 162.125.80.5       photos-5.dropbox.com
 162.125.80.5       photos-6.dropbox.com
 162.125.80.5       photos-thumb.dropbox.com
-162.125.18.1       photos-thumb.x.dropbox.com
-52.8.4.167         paper.dropbox.com
-13.224.143.38      status.dropbox.com
-13.224.143.94      snapengage.dropbox.com
+162.125.18.129     photos-thumb.x.dropbox.com
+52.52.230.30       paper.dropbox.com
+13.224.143.114     status.dropbox.com
+13.224.143.7       snapengage.dropbox.com
 162.125.80.6       dl.dropboxusercontent.com
-162.125.34.143     www.dropboxstatic.com
-104.16.100.29      cfl.dropboxstatic.com
+162.125.34.12      www.dropboxstatic.com
+104.16.99.29       cfl.dropboxstatic.com
 13.224.144.67      cf.dropboxstatic.com
-162.125.34.143     dbxlocal.dropboxstatic.com
+162.125.34.12      dbxlocal.dropboxstatic.com
 162.125.80.2       log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
-54.254.135.186     duckduckgo.com
-54.254.135.186     www.duckduckgo.com
+46.51.219.131      duckduckgo.com
+46.51.219.131      www.duckduckgo.com
 54.254.135.186     ac.duckduckgo.com
-46.51.216.187      icons.duckduckgo.com
-54.254.135.186     images.duckduckgo.com
-54.254.135.186     help.duckduckgo.com
+52.74.174.169      icons.duckduckgo.com
+46.51.219.131      images.duckduckgo.com
+46.51.219.131      help.duckduckgo.com
 # DuckDuckGo End
 
 # Facebook Start
@@ -261,22 +261,22 @@
 31.13.82.1         star.c10r.facebook.com
 31.13.82.36        fbcdn.net
 31.13.82.7         connect.facebook.net
-157.240.196.38     ent-a.xx.fbcdn.net
-157.240.201.38     ent-b.xx.fbcdn.net
-31.13.90.35        ent-c.xx.fbcdn.net
-157.240.201.38     ent-d.xx.fbcdn.net
-157.240.6.34       ent-e.xx.fbcdn.net
+157.240.203.38     ent-a.xx.fbcdn.net
+102.132.96.33      ent-b.xx.fbcdn.net
+31.13.66.38        ent-c.xx.fbcdn.net
+31.13.83.35        ent-d.xx.fbcdn.net
+102.132.97.33      ent-e.xx.fbcdn.net
 31.13.82.7         scontent.xx.fbcdn.net
 31.13.82.7         scontent-a.xx.fbcdn.net
 31.13.82.7         scontent-b.xx.fbcdn.net
-31.13.68.34        scontent-c.xx.fbcdn.net
-31.13.74.34        scontent-d.xx.fbcdn.net
-157.240.28.38      scontent-e.xx.fbcdn.net
+31.13.70.35        scontent-c.xx.fbcdn.net
+157.240.6.34       scontent-d.xx.fbcdn.net
+157.240.198.38     scontent-e.xx.fbcdn.net
 31.13.86.4         scontent-mxp.xx.fbcdn.net
 31.13.70.7         scontent-a-lax.xx.fbcdn.net
-157.240.7.26       scontent-a-sin.xx.fbcdn.net
-157.240.11.22      scontent-b-lax.xx.fbcdn.net
-157.240.24.31      scontent-b-sin.xx.fbcdn.net
+157.240.24.31      scontent-a-sin.xx.fbcdn.net
+31.13.70.7         scontent-b-lax.xx.fbcdn.net
+157.240.7.26       scontent-b-sin.xx.fbcdn.net
 31.13.82.7         static.xx.fbcdn.net
 31.13.82.1         attachment.fbsbx.com
 31.13.82.1         messenger.com
@@ -300,39 +300,39 @@
 192.0.66.2         techprep.fb.com
 31.13.70.7         scontent-lax3-1.xx.fbcdn.net
 157.240.11.22      scontent-lax3-2.xx.fbcdn.net
-31.13.66.38        scontent-lax3-3.xx.fbcdn.net
-157.240.24.33      scontent-lax3-4.xx.fbcdn.net
+31.13.74.34        scontent-lax3-3.xx.fbcdn.net
+157.240.28.38      scontent-lax3-4.xx.fbcdn.net
 31.13.95.12        scontent-hkg3-1.xx.fbcdn.net
 157.240.15.22      scontent-hkg3-2.xx.fbcdn.net
-102.132.96.33      scontent-hkg3-3.xx.fbcdn.net
+31.13.84.35        scontent-hkg3-3.xx.fbcdn.net
 69.171.250.41      z-1-scontent.xx.fbcdn.net
 31.13.70.14        video-lax3-1.xx.fbcdn.net
 157.240.11.18      video-lax3-2.xx.fbcdn.net
-179.60.192.35      video-lax3-3.xx.fbcdn.net
-31.13.73.34        video-lax3-4.xx.fbcdn.net
-157.240.198.38     video-mrs1-1.xx.fbcdn.net
-157.240.23.34      video-mrs1-2.xx.fbcdn.net
-157.240.20.34      video-mrs1-3.xx.fbcdn.net
-31.13.80.35        video-mrs1-4.xx.fbcdn.net
+179.60.193.34      video-lax3-3.xx.fbcdn.net
+31.13.82.35        video-lax3-4.xx.fbcdn.net
+157.240.3.33       video-mrs1-1.xx.fbcdn.net
+157.240.27.33      video-mrs1-2.xx.fbcdn.net
+157.240.27.33      video-mrs1-3.xx.fbcdn.net
+157.240.9.34       video-mrs1-4.xx.fbcdn.net
 31.13.95.14        video-hkg3-1.xx.fbcdn.net
-31.13.66.38        video-sit4-1.xx.fbcdn.net
+31.13.81.35        video-sit4-1.xx.fbcdn.net
 31.13.82.15        video.xx.fbcdn.net
 31.13.82.7         external.xx.fbcdn.net
 31.13.82.1         messengerplatform.fb.com
 199.201.64.67      threatexchange.fb.com
 31.13.82.15        video.xx.fbcdn.net
-96.17.151.147      fb-s-d-a.akamaihd.net
+96.17.151.17       fb-s-d-a.akamaihd.net
 104.74.70.243      a.dolimg.com
-23.33.178.107      a248.e.akamai.net
-96.17.151.33       lumiere-a.akamaihd.net
-96.17.151.147      fb-l-a-a.akamaihd.net
-96.17.151.147      fb-l-b-a.akamaihd.net
-96.17.151.147      fb-l-c-a.akamaihd.net
-96.17.151.147      fb-l-d-a.akamaihd.net
-96.17.151.147      fb-s-a-a.akamaihd.net
-96.17.151.147      fb-s-b-a.akamaihd.net
-96.17.151.147      fb-s-c-a.akamaihd.net
-96.17.151.147      fb-s-d-a.akamaihd.net
+23.33.178.106      a248.e.akamai.net
+104.118.6.194      lumiere-a.akamaihd.net
+96.17.151.17       fb-l-a-a.akamaihd.net
+96.17.151.17       fb-l-b-a.akamaihd.net
+96.17.151.17       fb-l-c-a.akamaihd.net
+96.17.151.17       fb-l-d-a.akamaihd.net
+96.17.151.17       fb-s-a-a.akamaihd.net
+96.17.151.17       fb-s-b-a.akamaihd.net
+96.17.151.17       fb-s-c-a.akamaihd.net
+96.17.151.17       fb-s-d-a.akamaihd.net
 # Facebook End
 
 # FlipBoard Start
@@ -340,13 +340,13 @@
 13.224.148.9       cdn.flipboard.com
 13.224.148.9       ue.flipboard.com
 13.224.148.9       beacon.flipboard.com
-54.236.136.232     flipboard.com
+52.5.190.166       flipboard.com
 13.224.148.9       fbprod.flipboard.com
-54.219.231.106     flipboard.helpshift.com
+13.57.77.238       flipboard.helpshift.com
 # FlipBoard End
 
 # Github Start
-192.30.255.118     gist.github.com
+192.30.255.119     gist.github.com
 151.101.72.249     global-ssl.fastly.net
 # Github End
 
@@ -365,7 +365,7 @@
 172.217.31.135     isolated.mail.google.com
 64.233.189.27      gmail-smtp-in.l.google.com
 64.233.179.27      alt1.gmail-smtp-in.l.google.com
-209.85.200.26      alt2.gmail-smtp-in.l.google.com
+209.85.200.27      alt2.gmail-smtp-in.l.google.com
 64.233.177.27      alt3.gmail-smtp-in.l.google.com
 209.85.232.27      alt4.gmail-smtp-in.l.google.com
 # Gmail web End
@@ -376,23 +376,23 @@
 172.217.31.142     google.com
 172.217.24.132     google.com.af
 172.217.24.131     google.com.ag
-172.217.31.132     google.com.ai
-172.217.26.3       google.com.ar
-172.217.25.67      google.com.au
+172.217.25.196     google.com.ai
+216.58.197.163     google.com.ar
+172.217.24.131     google.com.au
 172.217.26.35      google.com.bd
 172.217.27.67      google.com.bh
-172.217.27.68      google.com.bn
-172.217.25.195     google.com.bo
+216.58.197.196     google.com.bn
+172.217.25.67      google.com.bo
 216.58.197.227     google.com.br
 172.217.27.67      google.com.bz
 172.217.25.67      google.com.co
 172.217.25.99      google.com.cu
-216.58.197.196     google.com.cy
+172.217.26.36      google.com.cy
 172.217.24.131     google.com.do
 216.58.197.163     google.com.ec
-216.58.197.195     google.com.eg
+172.217.27.67      google.com.eg
 172.217.25.99      google.com.et
-172.217.24.131     google.com.fj
+172.217.31.131     google.com.fj
 172.217.25.227     google.com.gh
 172.217.26.36      google.com.gi
 172.217.25.99      google.com.gt
@@ -401,37 +401,37 @@
 172.217.31.163     google.com.kh
 172.217.25.195     google.com.kw
 172.217.26.3       google.com.lb
-172.217.25.195     google.com.ly
+216.58.197.227     google.com.ly
 172.217.26.4       google.com.mm
 172.217.25.227     google.com.mt
-172.217.161.67     google.com.mx
+216.58.197.195     google.com.mx
 216.58.197.227     google.com.my
 172.217.25.67      google.com.na
-172.217.25.100     google.com.nf
-172.217.25.67      google.com.ng
+216.58.197.164     google.com.nf
+216.58.197.195     google.com.ng
 216.58.197.131     google.com.ni
 216.58.197.163     google.com.np
-172.217.31.131     google.com.om
+172.217.24.131     google.com.om
 172.217.31.163     google.com.pa
 172.217.25.227     google.com.pe
 172.217.24.132     google.com.pg
 172.217.26.35      google.com.ph
 216.58.197.163     google.com.pk
-172.217.25.99      google.com.pr
+172.217.25.227     google.com.pr
 172.217.25.67      google.com.py
-172.217.27.67      google.com.qa
-172.217.31.131     google.com.sa
+172.217.161.35     google.com.qa
+172.217.161.67     google.com.sa
 172.217.31.164     google.com.sb
-172.217.26.3       google.com.sg
-172.217.25.99      google.com.sl
+172.217.25.227     google.com.sg
+172.217.26.35      google.com.sl
 216.58.197.227     google.com.sv
 216.58.197.132     google.com.tj
 216.58.197.163     google.com.tr
-216.58.197.131     google.com.tw
+172.217.31.163     google.com.tw
 172.217.25.67      google.com.ua
 172.217.25.195     google.com.uy
 172.217.26.3       google.com.vc
-172.217.26.35      google.com.vn
+172.217.31.131     google.com.vn
 172.217.25.196     www.google.com
 172.217.26.3       www.google.com.hk
 172.217.161.35     www.google.com.tw
@@ -452,8 +452,8 @@
 172.217.25.78      clients6.google.com
 172.217.25.78      client2.google.com
 172.217.25.78      client4.google.com
-172.217.27.74      chat-pa.clients6.google.com
-172.217.31.138     people-pa.clients6.google.com
+172.217.26.42      chat-pa.clients6.google.com
+172.217.27.74      people-pa.clients6.google.com
 172.217.161.78     cse.google.com
 172.217.31.164     desktop.google.com
 172.217.31.132     desktop2.google.com
@@ -502,35 +502,35 @@
 172.217.27.79      upload.google.com
 172.217.161.78     video.google.com
 172.217.27.78      voice.google.com
-64.233.188.82      gcr.io
+64.233.189.82      gcr.io
 64.233.189.82      www.gcr.io
 172.217.31.174     console.firebase.google.com
 172.217.25.234     appengine.clients6.google.com
 216.58.197.138     bigtableadmin.clients6.google.com
-172.217.31.138     clouddebugger.clients6.google.com
-172.217.25.74      cloudconfig.clients6.google.com
-172.217.25.74      cloudpersonalization-pa.clients6.google.com
-172.217.25.74      cloudsupport.clients6.google.com
-172.217.31.170     cloudusersettings-pa.clients6.google.com
+172.217.25.202     clouddebugger.clients6.google.com
+172.217.25.202     cloudconfig.clients6.google.com
+172.217.25.202     cloudpersonalization-pa.clients6.google.com
+216.58.197.138     cloudsupport.clients6.google.com
+216.58.197.202     cloudusersettings-pa.clients6.google.com
 172.217.25.106     dataflow.clients6.google.com
-172.217.25.202     datahub.clients6.google.com
-172.217.31.138     firebasedurablelinks-pa.clients6.google.com
-172.217.25.234     firebaserules.clients6.google.com
-172.217.27.74      firebasestorage.clients6.google.com
-172.217.25.202     gcmcontextualcampaign-pa.clients6.google.com
-172.217.25.234     logging.clients6.google.com
-216.58.197.202     memcache.clients6.google.com
-216.58.197.202     ml.clients6.google.com
-172.217.25.74      mobilecrashreporting.clients6.google.com
-172.217.26.42      mobilesdk-pa.clients6.google.com
-216.58.197.202     reminders-pa.clients6.google.com
+172.217.25.74      datahub.clients6.google.com
+216.58.197.234     firebasedurablelinks-pa.clients6.google.com
+172.217.25.106     firebaserules.clients6.google.com
+172.217.25.234     firebasestorage.clients6.google.com
+172.217.31.138     gcmcontextualcampaign-pa.clients6.google.com
+172.217.24.138     logging.clients6.google.com
+172.217.25.202     memcache.clients6.google.com
+172.217.25.234     ml.clients6.google.com
+172.217.27.74      mobilecrashreporting.clients6.google.com
+172.217.161.74     mobilesdk-pa.clients6.google.com
+172.217.31.170     reminders-pa.clients6.google.com
 172.217.25.78      linkhelp.clients.google.com
 172.217.25.78      upload.clients.google.com
 172.217.25.78      uploads.clients.google.com
-172.217.161.81     summerofcode.withgoogle.com
-64.233.187.100     video-stats.video.google.com
+172.217.31.177     summerofcode.withgoogle.com
+64.233.189.102     video-stats.video.google.com
 216.58.197.207     upload.video.google.com
-64.233.189.101     www.googlegroups.com
+64.233.189.100     www.googlegroups.com
 172.217.161.65     a.orkut.gmodules.com
 172.217.161.65     ig.ig.gmodules.com
 172.217.31.174     www.googlestore.com
@@ -571,9 +571,9 @@
 216.58.197.174     books.google.com.hk
 216.58.197.131     clients1.google.com.hk
 172.217.31.164     desktop.google.com.hk
-64.233.189.101     groups.google.com.hk
+64.233.189.100     groups.google.com.hk
 172.217.31.174     gxc.google.com.hk
-172.217.161.195    id.google.com.hk
+172.217.26.3       id.google.com.hk
 216.58.197.174     images.google.com.hk
 172.217.25.99      maps.google.com.hk
 172.217.25.196     mobile.google.com.hk
@@ -581,35 +581,35 @@
 216.58.197.142     picasaweb.google.com.hk
 172.217.161.78     video.google.com.hk
 172.217.31.174     wenda.google.com.hk
-172.217.24.132     toolbarqueries.google.com.hk
+216.58.197.132     toolbarqueries.google.com.hk
 172.217.25.100     www.googlechinawebmaster.com
 172.217.161.35     accounts.google.com.tw
 216.58.197.174     books.google.com.tw
 216.58.197.131     clients1.google.com.tw
 172.217.31.164     desktop.google.com.tw
-64.233.189.101     groups.google.com.tw
+64.233.189.100     groups.google.com.tw
 172.217.31.174     gxc.google.com.tw
-172.217.161.195    id.google.com.tw
+172.217.26.3       id.google.com.tw
 216.58.197.174     images.google.com.tw
 216.58.197.142     picasaweb.google.com.tw
 172.217.25.238     toolbar.google.com.tw
-172.217.24.132     toolbarqueries.google.com.tw
+216.58.197.132     toolbarqueries.google.com.tw
 172.217.161.78     video.google.com.tw
 172.217.27.67      google.co.jp
-172.217.26.35      www.google.co.jp
+216.58.197.131     www.google.co.jp
 172.217.161.35     accounts.google.co.jp
 216.58.197.228     blogsearch.google.co.jp
 216.58.197.174     books.google.co.jp
 216.58.197.131     clients1.google.co.jp
 172.217.31.164     desktop.google.co.jp
-64.233.189.101     groups.google.co.jp
+64.233.189.100     groups.google.co.jp
 216.58.197.174     images.google.co.jp
 172.217.25.99      maps.google.co.jp
 172.217.26.3       news.google.co.jp
 216.58.197.142     picasaweb.google.co.jp
 172.217.27.68      scholar.google.co.jp
 172.217.25.238     toolbar.google.co.jp
-172.217.24.132     toolbarqueries.google.co.jp
+216.58.197.132     toolbarqueries.google.co.jp
 172.217.24.131     translate.google.co.jp
 172.217.161.67     www.google.com.sg
 172.217.161.35     accounts.google.com.sg
@@ -617,25 +617,25 @@
 216.58.197.174     books.google.com.sg
 216.58.197.131     clients1.google.com.sg
 172.217.31.164     desktop.google.com.sg
-64.233.189.101     groups.google.com.sg
+64.233.189.100     groups.google.com.sg
 172.217.31.174     gxc.google.com.sg
-172.217.161.195    id.google.com.sg
+172.217.26.3       id.google.com.sg
 216.58.197.174     images.google.com.sg
 172.217.25.99      maps.google.com.sg
 172.217.26.3       news.google.com.sg
 172.217.27.68      scholar.google.com.sg
 172.217.25.238     toolbar.google.com.sg
-172.217.24.132     toolbarqueries.google.com.sg
+216.58.197.132     toolbarqueries.google.com.sg
 172.217.31.163     translate.google.com.sg
 172.217.31.174     apps.google.com
-172.217.25.228     googlemashups.com
+172.217.24.132     googlemashups.com
 216.58.197.228     www.googlemashups.com
 172.217.31.174     appengine.google.com
 172.217.31.174     answers.google.com
 172.217.25.97      analytics.googleblog.com
 172.217.25.97      firebase.googleblog.com
-216.58.197.225     research.googleblog.com
-216.58.197.225     security.googleblog.com
+172.217.25.97      research.googleblog.com
+172.217.25.97      security.googleblog.com
 172.217.25.97      gmail.googleblog.com
 172.217.25.97      chrome.googleblog.com
 172.217.25.97      search.googleblog.com
@@ -646,8 +646,8 @@
 216.58.197.228     blogsearch.google.com
 216.58.197.228     blogsearch.google.com.tw
 216.58.197.137     accounts.blogger.com
-216.58.197.137     www.blogger.com
-172.217.25.201     blogger.com
+172.217.25.73      www.blogger.com
+172.217.25.233     blogger.com
 172.217.25.97      www.googleblog.com
 172.217.31.129     googleblog.com
 216.58.197.137     blogger.google.com
@@ -670,9 +670,9 @@
 216.58.197.137     img1.blogblog.com
 216.58.197.137     img2.blogblog.com
 216.58.197.137     resources.blogblog.com
-172.217.31.174     www.textcube.com
+172.217.25.206     www.textcube.com
 216.58.197.137     www.blogspot.com
-172.217.25.105     blogspot.com
+172.217.26.9       blogspot.com
 172.217.24.129     1.bp.blogspot.com
 172.217.24.129     2.bp.blogspot.com
 172.217.24.129     3.bp.blogspot.com
@@ -680,11 +680,11 @@
 172.217.25.97      googleblog.blogspot.com
 172.217.25.97      googleforstudents.blogspot.com
 172.217.25.97      students.googleblog.com
-172.217.25.97      chrome.blogspot.com
+216.58.197.225     chrome.blogspot.com
 172.217.25.97      publicpolicy.googleblog.com
 172.217.25.97      googlepublicpolicy.blogspot.com
-172.217.161.66     googleadservices.com
-172.217.161.34     www.googleadservices.com
+172.217.24.130     googleadservices.com
+172.217.26.2       www.googleadservices.com
 172.217.25.97      google-latlong.blogspot.com
 172.217.25.97      insidesearch.blogspot.com
 172.217.25.97      googleadsdeveloper.blogspot.com
@@ -706,7 +706,7 @@
 172.217.25.78      appspot.com
 216.58.197.180     apis-explorer.appspot.com
 216.58.197.244     betaspike.appspot.com
-172.217.26.20      hstspreload.appspot.com
+172.217.24.148     hstspreload.appspot.com
 172.217.161.84     chrome-devtools-frontend.appspot.com
 172.217.161.84     chrometophone.appspot.com
 216.58.197.148     google-developers.appspot.com
@@ -716,7 +716,7 @@
 74.125.23.128      content-storage-download.googleapis.com
 64.233.189.128     content-storage-upload.googleapis.com
 172.217.31.138     fonts.googleapis.com
-216.58.197.196     googlesyndication.com
+172.217.161.36     googlesyndication.com
 216.58.197.161     googleweblight.com
 172.217.161.48     unfiltered.news
 216.58.197.206     jigsaw.google.com
@@ -726,11 +726,11 @@
 172.217.25.84      joinjoaomgcd.appspot.com
 172.217.161.35     accounts.google.com.gi
 172.217.161.35     accounts.google.co.nz
-172.217.161.195    id.google.co.nz
+172.217.26.3       id.google.co.nz
 172.217.161.68     googlecode.com
 64.233.189.82      www.googlecode.com
 108.177.125.82     fuchsia.googlesource.com
-74.125.203.82      googlesource.com
+74.125.204.82      googlesource.com
 74.125.23.82       boringssl.googlesource.com
 108.177.97.82      gerrit.googlesource.com
 74.125.204.82      gerrit-review.googlesource.com
@@ -765,7 +765,7 @@
 172.217.31.174     directory.google.com
 172.217.31.174     dir.google.com
 216.58.197.206     events.google.com
-172.217.25.113     events.withgoogle.com
+172.217.161.49     events.withgoogle.com
 216.239.32.27      savethedate.foo
 216.239.32.27      www.savethedate.foo
 172.217.25.193     googledrive.com
@@ -835,16 +835,16 @@
 172.217.161.65     8c953efe117cb4ee14eaffe2b417623a104ce4e6.googledrive.com
 216.58.197.238     v3.cache1.c.docs.google.com
 216.58.197.142     domains.google.com
-108.177.125.190    dl-ssl.google.com
+108.177.125.93     dl-ssl.google.com
 172.217.31.174     earth.google.com
 172.217.31.174     auth.keyhole.com
 172.217.31.174     geoauth.google.com
 172.217.31.174     finance.google.com
 216.58.197.228     fusion.google.com
 172.217.161.78     fusiontables.google.com
-64.233.189.101     groups.google.com
-64.233.189.101     groups-beta.google.com
-64.233.189.101     productforums.google.com
+64.233.189.100     groups.google.com
+64.233.189.100     groups-beta.google.com
+64.233.189.100     productforums.google.com
 74.125.203.137     a77db9aa-a-7b23c8ea-s-sites.googlegroups.com
 74.125.203.137     blob-s-docs.googlegroups.com
 172.217.31.174     health.google.com
@@ -884,7 +884,7 @@
 172.217.25.238     mt2.google.com
 172.217.25.238     mt3.google.com
 172.217.25.206     gg.google.com
-172.217.161.195    id.google.com
+172.217.26.3       id.google.com
 172.217.24.142     mts.google.com
 172.217.24.142     mts0.google.com
 172.217.24.142     mts1.google.com
@@ -893,7 +893,7 @@
 172.217.25.78      mobilemaps.clients.google.com
 172.217.31.174     music.google.com
 172.217.161.65     music.googleusercontent.com
-172.217.31.138     music-pa.clients6.google.com
+172.217.25.106     music-pa.clients6.google.com
 172.217.161.65     scholar.googleusercontent.com
 172.217.27.79      uploadsj.clients.google.com
 172.217.27.78      news.google.com
@@ -924,7 +924,7 @@
 216.58.197.238     safebrowsing.google.com
 172.217.31.174     search.google.com
 172.217.0.46       alt1-safebrowsing.google.com
-172.217.14.238     alt2-safebrowsing.google.com
+216.58.193.78      alt2-safebrowsing.google.com
 172.217.25.78      safebrowsing.clients.google.com
 172.217.25.110     safebrowsing-cache.google.com
 74.125.203.81      sandbox.google.com
@@ -940,7 +940,7 @@
 172.217.25.238     toolbar.google.com
 172.217.25.238     toolbar.google.com.hk
 172.217.31.174     translate.google.com
-172.217.26.3       translate.google.com.hk
+172.217.25.227     translate.google.com.hk
 172.217.26.3       translate.google.com.tw
 216.58.197.228     trends.google.com
 172.217.31.174     wave.google.com
@@ -973,12 +973,12 @@
 172.217.31.174     www.registry.google
 172.217.31.174     www.domains.google
 216.239.32.29      registry.google
-216.58.197.138     apikeys.clients6.google.com
-172.217.25.74      servicemanagement.clients6.google.com
-172.217.25.202     cloudconsole-pa.clients6.google.com
-172.217.31.138     iam.clients6.google.com
-172.217.25.74      clientauthconfig.clients6.google.com
-172.217.26.10      realtimesupport.clients6.google.com
+172.217.31.138     apikeys.clients6.google.com
+216.58.197.138     servicemanagement.clients6.google.com
+172.217.25.106     cloudconsole-pa.clients6.google.com
+172.217.27.74      iam.clients6.google.com
+172.217.25.106     clientauthconfig.clients6.google.com
+172.217.31.170     realtimesupport.clients6.google.com
 172.217.26.14      360suite.google.com
 172.217.31.174     optimize.google.com
 172.217.25.78      audiencecenter.google.com
@@ -1022,11 +1022,11 @@
 172.217.24.132     api-secure.recaptcha.net
 172.217.24.132     mailhide.recaptcha.net
 172.217.31.164     webmproject.org
-172.217.25.206     www.webmproject.org
+172.217.31.174     www.webmproject.org
 172.217.31.174     www.data-vocabulary.org
 172.217.31.174     www.googleinsidesearch.com
 172.217.31.174     www.teachparentstech.org
-172.217.161.81     www.thinkwithgoogle.com
+216.58.197.209     www.thinkwithgoogle.com
 172.217.31.174     www.oneworldmanystories.com
 172.217.24.132     www.l.google.com
 216.58.197.228     www2.l.google.com
@@ -1036,7 +1036,7 @@
 172.217.161.35     accounts-cctld.l.google.com
 74.125.204.100     adwords.l.google.com
 172.217.25.81      appspot.l.google.com
-64.233.189.26      aspmx.l.google.com
+64.233.188.27      aspmx.l.google.com
 172.217.31.135     b.googlemail.l.google.com
 216.58.197.137     blogger.l.google.com
 216.58.197.142     bloggerphotos.l.google.com
@@ -1046,17 +1046,17 @@
 216.58.197.142     code.l.google.com
 172.217.25.78      clients.l.google.com
 216.58.197.131     clients-cctld.l.google.com
-172.217.163.227    csi.l.google.com
+216.58.210.227     csi.l.google.com
 172.217.31.164     desktop.l.google.com
-108.177.125.190    dl-ssl.l.google.com
+108.177.125.93     dl-ssl.l.google.com
 216.58.197.238     encrypted-tbn.l.google.com
 172.217.25.206     gadgets.l.google.com
-172.217.25.74      googleapis.l.google.com
+172.217.31.138     googleapis.l.google.com
 74.125.204.82      googlecode.l.google.com
 172.217.25.97      googlehosted.l.google.com
-64.233.189.101     groups.l.google.com
+64.233.189.100     groups.l.google.com
 64.233.187.113     history.l.google.com
-216.58.197.227     id.l.google.com
+172.217.26.3       id.l.google.com
 216.58.197.174     images.l.google.com
 172.217.161.46     ipv4.l.google.com
 172.217.25.110     khms.l.google.com
@@ -1066,7 +1066,7 @@
 172.217.25.238     mt.l.google.com
 172.217.24.142     mts.l.google.com
 172.217.27.65      music-china.l.google.com
-64.233.189.116     music-streaming.l.google.com
+64.233.189.117     music-streaming.l.google.com
 172.217.25.206     mw-medium.l.google.com
 172.217.31.142     mw-small.l.google.com
 216.58.197.174     news.l.google.com
@@ -1087,25 +1087,25 @@
 172.217.25.238     tools.l.google.com
 172.217.161.78     video.l.google.com
 64.233.189.82      googlecl.googlecode.com
-64.233.187.100     video-stats.l.google.com
+108.177.125.101    video-stats.l.google.com
 216.58.197.206     video-analytics.l.google.com
-172.217.25.206     video-thumbnails.l.google.com
+172.217.25.238     video-thumbnails.l.google.com
 64.233.188.123     wifi.l.google.com
 172.217.25.110     writely.l.google.com
 64.233.189.189     wildcard-talkgadget.l.google.com
 74.125.203.199     www-wide.l.google.com
 172.217.26.15      yt-video-upload.l.google.com
-172.217.27.78      ytimg.l.google.com
+172.217.25.238     ytimg.l.google.com
 172.217.25.206     ytstatic.l.google.com
-108.177.125.113    admob.com
-64.233.189.102     www.admob.com
-64.233.189.102     apps.admob.com
-74.125.204.101     adwords.google.com
+108.177.125.100    admob.com
+74.125.204.100     www.admob.com
+74.125.204.100     apps.admob.com
+74.125.204.138     adwords.google.com
 74.125.204.100     adwords.google.sk
 172.217.31.142     play.google.com
 74.125.23.92       payments.google.com
 172.217.25.78      withgoogle.com
-172.217.25.241     www.withgoogle.com
+172.217.31.177     www.withgoogle.com
 172.217.161.81     cloudnext.withgoogle.com
 172.217.31.177     edutrainingcenter.withgoogle.com
 216.58.197.241     earthview.withgoogle.com
@@ -1128,27 +1128,27 @@
 64.233.189.189     chromoting-oauth.talkgadget.google.com
 64.233.189.189     chromoting-host.talkgadget.google.com
 64.233.189.189     chromoting-client.talkgadget.google.com
-172.217.25.74      remoting-pa.googleapis.com
-172.217.25.74      personalsafety-pa.googleapis.com
-172.217.25.74      clientmetrics-pa.googleapis.com
+216.58.197.138     remoting-pa.googleapis.com
+216.58.197.138     personalsafety-pa.googleapis.com
+216.58.197.138     clientmetrics-pa.googleapis.com
 172.217.24.142     contacts.google.com
 172.217.25.110     youtu.be
-172.217.25.246     i.ytimg.com
-172.217.27.78      i1.ytimg.com
-172.217.27.78      i2.ytimg.com
-172.217.27.78      i3.ytimg.com
-172.217.27.78      i4.ytimg.com
-172.217.27.78      i9.ytimg.com
+216.58.197.214     i.ytimg.com
+172.217.25.238     i1.ytimg.com
+172.217.25.238     i2.ytimg.com
+172.217.25.238     i3.ytimg.com
+172.217.25.238     i4.ytimg.com
+172.217.25.238     i9.ytimg.com
 172.217.25.206     s.ytimg.com
 172.217.161.46     manifest.googlevideo.com
 172.217.25.81      onetoday.google.com
 172.217.24.142     notifications.google.com
-216.239.38.21      material.io
+216.239.36.21      material.io
 216.58.197.142     attribution.google.com
 172.217.161.44     proxy.googlezip.net
 216.58.197.140     compress.googlezip.net
 172.217.24.140     proxy-dev.googlezip.net
-216.239.34.21      polymer-project.org
+216.239.38.21      polymer-project.org
 172.217.31.147     www.polymer-project.org
 # Google End
 
@@ -1164,7 +1164,7 @@
 
 # Google:analytics Start
 216.58.197.206     www.google-analytics.com
-172.217.26.4       google-analytics.com
+172.217.25.196     google-analytics.com
 # Google:analytics End
 
 # gstatic Start
@@ -1213,33 +1213,33 @@
 172.217.25.78      chart.apis.google.com
 172.217.25.78      explorer.apis.google.com
 172.217.25.68      googleapis.com
-172.217.31.170     www.googleapis.com
-172.217.31.170     ajax.googleapis.com
-172.217.31.170     appinvite-pa.googleapis.com
-172.217.26.42      appinvite-ipv4-pa.googleapis.com
-172.217.31.170     bigcache.googleapis.com
-172.217.31.170     chart.googleapis.com
-172.217.31.170     content.googleapis.com
-172.217.31.170     device-provisioning.googleapis.com
-172.217.31.170     growth-pa.googleapis.com
-172.217.31.170     khms0.googleapis.com
-172.217.31.170     khms1.googleapis.com
-172.217.31.170     maps.googleapis.com
-172.217.31.170     opensourceprojects-pa.googleapis.com
-172.217.31.170     photos.googleapis.com
-172.217.31.170     play.googleapis.com
-172.217.31.170     plus.googleapis.com
-172.217.31.170     redirector-bigcache.googleapis.com
+216.58.197.138     www.googleapis.com
+216.58.197.138     ajax.googleapis.com
+216.58.197.138     appinvite-pa.googleapis.com
+172.217.24.138     appinvite-ipv4-pa.googleapis.com
+216.58.197.138     bigcache.googleapis.com
+216.58.197.138     chart.googleapis.com
+216.58.197.138     content.googleapis.com
+216.58.197.138     device-provisioning.googleapis.com
+216.58.197.138     growth-pa.googleapis.com
+216.58.197.138     khms0.googleapis.com
+216.58.197.138     khms1.googleapis.com
+216.58.197.138     maps.googleapis.com
+216.58.197.138     opensourceprojects-pa.googleapis.com
+216.58.197.138     photos.googleapis.com
+216.58.197.138     play.googleapis.com
+216.58.197.138     plus.googleapis.com
+216.58.197.138     redirector-bigcache.googleapis.com
 172.217.25.238     mt0.googleapis.com
 172.217.25.238     mt1.googleapis.com
 172.217.25.238     mt2.googleapis.com
 172.217.25.238     mt3.googleapis.com
-172.217.31.170     mts0.googleapis.com
-172.217.31.170     mts1.googleapis.com
-172.217.31.170     mts2.googleapis.com
-172.217.31.170     mts3.googleapis.com
-172.217.31.170     ct.googleapis.com
-172.217.31.170     securetoken.googleapis.com
+216.58.197.138     mts0.googleapis.com
+216.58.197.138     mts1.googleapis.com
+216.58.197.138     mts2.googleapis.com
+216.58.197.138     mts3.googleapis.com
+216.58.197.138     ct.googleapis.com
+216.58.197.138     securetoken.googleapis.com
 172.217.161.65     www-tactile-opensocial.googleusercontent.com
 172.217.161.65     safenup.googleusercontent.com
 172.217.161.65     www--google--com.safenup.googleusercontent.com
@@ -1255,7 +1255,7 @@
 172.217.161.48     appspot.com.storage.googleapis.com
 172.217.161.48     chromedriver.storage.googleapis.com
 172.217.161.48     static.panoramio.com.storage.googleapis.com
-172.217.31.170     firebasestorage.googleapis.com
+216.58.197.138     firebasestorage.googleapis.com
 # Googleapis:storage End
 
 # Googleusercontent Start
@@ -1321,7 +1321,7 @@
 172.217.161.65     clients6.googleusercontent.com
 172.217.161.65     clients7.googleusercontent.com
 172.217.161.65     code-opensocial.googleusercontent.com
-64.233.189.116     t.doc-0-0-sj.sj.googleusercontent.com
+64.233.189.117     t.doc-0-0-sj.sj.googleusercontent.com
 172.217.161.65     doc-00-00-docs.googleusercontent.com
 172.217.161.65     doc-04-00-docs.googleusercontent.com
 172.217.161.65     doc-08-00-docs.googleusercontent.com
@@ -2510,96 +2510,96 @@
 # Google:groups End
 
 # Google:others Start
-216.58.197.163     google.ad
+172.217.31.131     google.ad
 172.217.27.67      google.ae
 172.217.161.68     google.al
-172.217.24.132     google.am
+172.217.161.36     google.am
 172.217.25.99      google.as
-172.217.161.67     google.at
+172.217.25.195     google.at
 172.217.25.196     google.az
 172.217.24.132     google.ba
 172.217.161.35     google.be
-172.217.27.67      google.bf
-172.217.161.67     google.bg
+172.217.24.131     google.bf
+172.217.27.67      google.bg
 172.217.25.195     google.bi
 172.217.25.67      google.bj
 172.217.27.67      google.bs
 172.217.26.35      google.bt
-216.58.197.132     google.by
-172.217.25.227     google.ca
-172.217.26.3       google.cat
-172.217.161.35     google.cd
+172.217.31.132     google.by
+172.217.31.163     google.ca
+172.217.31.163     google.cat
+172.217.25.99      google.cd
 172.217.161.35     google.cf
-216.58.197.195     google.cg
+172.217.24.131     google.cg
 172.217.26.3       google.ch
-172.217.161.35     google.ci
+172.217.31.163     google.ci
 172.217.161.35     google.cl
 172.217.26.35      google.cm
-172.217.161.67     google.co.ao
-216.58.197.228     google.co.ck
-172.217.26.3       google.co.cr
+216.58.197.227     google.co.ao
+172.217.25.68      google.co.ck
+216.58.197.195     google.co.cr
 172.217.31.163     google.co.id
-216.58.197.195     google.co.il
-216.58.197.163     google.co.in
+172.217.31.163     google.co.il
+172.217.31.131     google.co.in
 172.217.161.67     google.co.ke
 172.217.31.163     google.co.kr
 216.58.197.195     google.co.ls
-172.217.25.196     google.co.ma
+172.217.25.68      google.co.ma
 172.217.161.35     google.co.mz
 172.217.31.163     google.co.nz
 172.217.161.35     google.co.th
-172.217.27.67      google.co.tz
+216.58.197.195     google.co.tz
 216.58.197.227     google.co.ug
-172.217.26.35      google.co.uk
-172.217.26.36      google.co.uz
-172.217.161.67     google.co.ve
-216.58.197.164     google.co.vi
+216.58.197.131     google.co.uk
+172.217.25.100     google.co.uz
+172.217.25.67      google.co.ve
+172.217.161.68     google.co.vi
 172.217.25.195     google.co.za
-172.217.24.131     google.co.zm
+172.217.25.195     google.co.zm
 172.217.31.163     google.co.zw
-172.217.31.164     google.cv
+172.217.161.36     google.cv
 172.217.26.3       google.cz
 172.217.31.131     google.de
-216.58.197.195     google.dj
-172.217.24.131     google.dk
-216.58.197.195     google.dm
+172.217.25.67      google.dj
+172.217.25.227     google.dk
+216.58.197.227     google.dm
 172.217.31.163     google.dz
-172.217.25.195     google.ee
-172.217.25.67      google.es
+172.217.161.67     google.ee
+172.217.31.131     google.es
 172.217.31.163     google.fi
-216.58.197.227     google.fm
-172.217.161.35     google.fr
-172.217.31.131     google.ga
-216.58.197.164     google.ge
+172.217.161.67     google.fm
+216.58.197.163     google.fr
+172.217.31.163     google.ga
+172.217.26.36      google.ge
 172.217.24.132     google.gg
-172.217.161.68     google.gl
-172.217.27.67      google.gm
-172.217.25.195     google.gp
-172.217.31.131     google.gr
+216.58.197.164     google.gl
+172.217.24.131     google.gm
+172.217.25.99      google.gp
+172.217.24.131     google.gr
 172.217.24.131     google.gy
-216.58.197.163     google.hn
+172.217.161.35     google.hn
 172.217.25.67      google.hr
 172.217.26.35      google.ht
 172.217.27.67      google.hu
-216.58.197.195     google.ie
-172.217.26.36      google.im
+172.217.25.67      google.ie
+172.217.25.228     google.im
 172.217.31.131     google.iq
 216.58.197.227     google.is
-172.217.25.67      google.it
-172.217.27.68      google.je
-172.217.26.3       google.jo
+172.217.31.131     google.it
+216.58.197.132     google.je
+172.217.25.99      google.jo
 172.217.26.4       google.kg
 172.217.25.68      google.ki
-172.217.31.132     google.kz
-172.217.27.67      google.la
-172.217.161.35     google.li
+172.217.25.100     google.kz
+172.217.31.163     google.la
+172.217.31.131     google.li
 172.217.25.195     google.lk
 172.217.25.195     google.lt
 172.217.31.163     google.lu
 172.217.31.131     google.lv
-172.217.31.132     google.md
+172.217.161.68     google.md
 172.217.25.228     google.me
-172.217.161.67     google.mg
+172.217.25.67      google.mg
 172.217.26.35      google.mk
 172.217.25.99      google.ml
 172.217.26.3       google.mn
@@ -2614,67 +2614,68 @@
 172.217.31.164     google.nu
 172.217.25.227     google.pl
 172.217.26.36      google.pn
-172.217.161.68     google.ps
-172.217.26.35      google.pt
-172.217.24.131     google.ro
-172.217.25.99      google.rs
+172.217.27.68      google.ps
+172.217.27.67      google.pt
+216.58.197.131     google.ro
+172.217.31.163     google.rs
 172.217.161.67     google.ru
-172.217.31.131     google.rw
-172.217.27.67      google.sc
+172.217.25.99      google.rw
+172.217.26.35      google.sc
 172.217.25.67      google.se
 216.58.197.163     google.sh
-172.217.24.131     google.si
-172.217.161.67     google.sk
+172.217.26.3       google.si
+216.58.197.163     google.sk
 172.217.26.36      google.sm
 172.217.27.67      google.sn
 216.58.197.227     google.so
-172.217.161.67     google.st
+172.217.25.67      google.st
 172.217.26.35      google.td
 172.217.26.35      google.tg
-172.217.25.196     google.tk
+172.217.26.36      google.tk
 172.217.31.164     google.tl
-172.217.24.132     google.tm
-172.217.25.195     google.tn
+172.217.26.4       google.tm
+216.58.197.131     google.tn
 172.217.31.163     google.to
 172.217.25.67      google.tt
 172.217.26.36      google.vg
 172.217.31.163     google.vu
 216.58.197.131     google.ws
 172.217.24.131     www.google.ad
-172.217.25.227     www.google.ae
-216.58.197.195     www.google.al
+216.58.197.131     www.google.ae
+216.58.197.163     www.google.al
 172.217.26.35      www.google.am
-172.217.25.227     www.google.as
-172.217.25.227     www.google.at
+172.217.24.131     www.google.as
+172.217.161.35     www.google.at
 172.217.25.67      www.google.az
 172.217.161.35     www.google.ba
 172.217.26.35      www.google.be
 172.217.26.35      www.google.bf
 216.58.197.195     www.google.bg
-216.58.197.131     www.google.bi
+172.217.26.35      www.google.bi
 216.58.197.163     www.google.bj
 172.217.25.227     www.google.bs
 172.217.161.35     www.google.bt
-172.217.31.163     www.google.by
-172.217.25.195     www.google.ca
-172.217.24.131     www.google.cat
+172.217.31.131     www.google.by
+172.217.161.35     www.google.ca
+172.217.26.35      www.google.cat
 172.217.26.35      www.google.cd
-172.217.31.131     www.google.cf
+172.217.25.67      www.google.cf
 172.217.26.3       www.google.cg
 216.58.197.163     www.google.ch
 172.217.31.131     www.google.ci
 172.217.26.35      www.google.cl
-172.217.26.3       www.google.cm
+172.217.26.35      www.google.cm
 216.58.197.227     www.google.co.ao
+172.217.26.3       www.google.co.bw
 172.217.25.195     www.google.co.ck
 172.217.161.67     www.google.co.cr
 172.217.25.67      www.google.co.id
 172.217.27.67      www.google.co.il
 172.217.31.131     www.google.co.in
-172.217.31.163     www.google.co.ke
+216.58.197.227     www.google.co.ke
 216.58.197.131     www.google.co.kr
 172.217.26.35      www.google.co.ls
-172.217.26.3       www.google.co.ma
+216.58.197.163     www.google.co.ma
 172.217.161.67     www.google.co.mz
 172.217.25.195     www.google.co.nz
 172.217.25.67      www.google.co.th
@@ -2686,12 +2687,12 @@
 172.217.25.195     www.google.co.vi
 172.217.27.67      www.google.co.za
 172.217.31.163     www.google.co.zm
-172.217.26.3       www.google.co.zw
+172.217.24.131     www.google.co.zw
 172.217.31.131     www.google.com.af
 172.217.25.67      www.google.com.ag
 172.217.25.227     www.google.com.ai
 172.217.31.163     www.google.com.ar
-172.217.31.163     www.google.com.au
+216.58.197.195     www.google.com.au
 172.217.31.131     www.google.com.bd
 216.58.197.227     www.google.com.bh
 172.217.26.3       www.google.com.bn
@@ -2702,14 +2703,14 @@
 216.58.197.131     www.google.com.cu
 172.217.31.163     www.google.com.cy
 172.217.26.35      www.google.com.do
-172.217.31.163     www.google.com.ec
+172.217.26.3       www.google.com.ec
 172.217.26.3       www.google.com.eg
 172.217.161.67     www.google.com.et
 172.217.24.131     www.google.com.fj
 172.217.161.35     www.google.com.gh
 172.217.24.131     www.google.com.gi
 216.58.197.227     www.google.com.gr
-172.217.31.131     www.google.com.gt
+172.217.25.67      www.google.com.gt
 172.217.26.3       www.google.com.jm
 172.217.25.227     www.google.com.kh
 216.58.197.163     www.google.com.kw
@@ -2721,10 +2722,10 @@
 172.217.25.195     www.google.com.my
 172.217.31.163     www.google.com.na
 216.58.197.227     www.google.com.nf
-172.217.27.67      www.google.com.ng
+172.217.26.3       www.google.com.ng
 216.58.197.227     www.google.com.ni
 172.217.31.163     www.google.com.np
-172.217.161.35     www.google.com.om
+172.217.26.35      www.google.com.om
 172.217.25.227     www.google.com.pa
 172.217.25.67      www.google.com.pe
 172.217.31.163     www.google.com.pg
@@ -2732,19 +2733,19 @@
 216.58.197.195     www.google.com.pk
 172.217.27.67      www.google.com.pr
 172.217.25.227     www.google.com.py
-172.217.161.67     www.google.com.qa
+216.58.197.227     www.google.com.qa
 172.217.161.35     www.google.com.ru
 172.217.25.227     www.google.com.sa
 172.217.25.227     www.google.com.sb
 172.217.25.99      www.google.com.sl
-172.217.26.35      www.google.com.sv
+172.217.25.195     www.google.com.sv
 172.217.161.35     www.google.com.tj
-172.217.26.35      www.google.com.tr
+172.217.25.195     www.google.com.tr
 172.217.26.35      www.google.com.ua
-172.217.25.67      www.google.com.uy
+172.217.31.131     www.google.com.uy
 172.217.25.99      www.google.com.vc
 216.58.197.195     www.google.com.vn
-172.217.27.67      www.google.cv
+172.217.161.67     www.google.cv
 172.217.25.227     www.google.cz
 172.217.25.227     www.google.de
 216.58.197.227     www.google.dj
@@ -2759,59 +2760,59 @@
 172.217.31.131     www.google.ga
 172.217.26.3       www.google.ge
 172.217.26.3       www.google.gg
-172.217.31.131     www.google.gl
+172.217.161.67     www.google.gl
 172.217.161.67     www.google.gm
 172.217.26.3       www.google.gp
 172.217.24.131     www.google.gr
-172.217.24.131     www.google.gy
+172.217.26.3       www.google.gy
 216.58.197.163     www.google.hn
 172.217.25.67      www.google.hr
 216.58.197.195     www.google.ht
-172.217.161.67     www.google.hu
+172.217.25.227     www.google.hu
 172.217.24.131     www.google.ie
 172.217.25.99      www.google.im
 172.217.26.35      www.google.iq
 172.217.31.163     www.google.is
-216.58.197.195     www.google.it
-172.217.27.67      www.google.je
-172.217.25.67      www.google.jo
+172.217.25.227     www.google.it
+172.217.26.35      www.google.je
+216.58.197.131     www.google.jo
 216.58.197.131     www.google.kg
 172.217.25.99      www.google.ki
-172.217.25.99      www.google.kz
+172.217.26.3       www.google.kz
 172.217.25.99      www.google.la
 172.217.24.131     www.google.li
-172.217.26.3       www.google.lk
-172.217.31.163     www.google.lt
+172.217.25.227     www.google.lk
+216.58.197.227     www.google.lt
 172.217.27.67      www.google.lu
 172.217.27.67      www.google.lv
 172.217.24.131     www.google.md
 216.58.197.131     www.google.me
 216.58.197.131     www.google.mg
-172.217.24.131     www.google.mk
+172.217.25.99      www.google.mk
 172.217.25.99      www.google.ml
 172.217.25.67      www.google.mn
-216.58.197.163     www.google.ms
-172.217.161.67     www.google.mu
-172.217.31.131     www.google.mv
+172.217.24.131     www.google.ms
+216.58.197.227     www.google.mu
+172.217.27.67      www.google.mv
 172.217.25.99      www.google.mw
 172.217.161.67     www.google.ne
 172.217.25.99      www.google.nl
-172.217.26.35      www.google.no
-172.217.27.67      www.google.nr
+172.217.31.163     www.google.no
+216.58.197.131     www.google.nr
 172.217.25.227     www.google.nu
 172.217.27.67      www.google.pl
 172.217.25.195     www.google.pn
 172.217.25.227     www.google.ps
 172.217.25.99      www.google.pt
-172.217.161.35     www.google.ro
+172.217.25.67      www.google.ro
 172.217.26.3       www.google.rs
 172.217.25.67      www.google.ru
-216.58.197.163     www.google.rw
+216.58.197.227     www.google.rw
 172.217.25.195     www.google.sc
 172.217.161.67     www.google.se
-172.217.161.67     www.google.sh
+172.217.31.131     www.google.sh
 172.217.27.67      www.google.si
-172.217.26.3       www.google.sk
+172.217.24.131     www.google.sk
 172.217.25.67      www.google.sm
 172.217.161.67     www.google.sn
 172.217.31.131     www.google.so
@@ -2826,9 +2827,9 @@
 172.217.161.35     www.google.tt
 172.217.161.35     www.google.vg
 172.217.26.3       www.google.vu
-216.58.197.163     www.google.ws
+216.58.197.227     www.google.ws
 172.217.25.113     foobar.withgoogle.com
-172.217.26.49      interstellar.withgoogle.com
+172.217.161.81     interstellar.withgoogle.com
 172.217.26.49      edudirectory.withgoogle.com
 172.217.31.177     atmosphere.withgoogle.com
 172.217.25.113     accelerate.withgoogle.com
@@ -2836,7 +2837,7 @@
 172.217.31.177     atmospheretokyo.withgoogle.com
 172.217.25.209     connectedclassrooms.withgoogle.com
 172.217.31.177     smartypins.withgoogle.com
-172.217.25.113     streetart.withgoogle.com
+172.217.25.81      streetart.withgoogle.com
 172.217.25.113     cardboard.withgoogle.com
 172.217.24.145     kickwithchrome.withgoogle.com
 216.58.197.209     candidatos.withgoogle.com
@@ -2852,16 +2853,16 @@
 
 # Gmail SMTP/POP/IMAP Start
 64.233.189.14      gmr-smtp-in.l.google.com
-64.233.188.16      googlemail-imap.l.google.com
+108.177.97.16      googlemail-imap.l.google.com
 74.125.203.16      googlemail-smtp.l.google.com
-64.233.189.16      googlemail-pop.l.google.com
-64.233.189.16      pop.googlemail.com
-64.233.188.16      imap.googlemail.com
+74.125.203.16      googlemail-pop.l.google.com
+74.125.203.16      pop.googlemail.com
+108.177.97.16      imap.googlemail.com
 74.125.203.16      smtp.googlemail.com
-74.125.23.108      gmail-imap.l.google.com
-74.125.23.108      imap.gmail.com
-74.125.204.108     gmail-pop.l.google.com
-74.125.204.108     pop.gmail.com
+64.233.188.109     gmail-imap.l.google.com
+64.233.188.109     imap.gmail.com
+74.125.203.109     gmail-pop.l.google.com
+74.125.203.109     pop.gmail.com
 108.177.97.108     gmail-smtp.l.google.com
 74.125.203.108     smtp.gmail.com
 74.125.203.108     gmail-smtp-msa.l.google.com
@@ -2888,18 +2889,18 @@
 216.58.197.179     ghs46.google.com
 172.217.25.115     ghs.l.google.com
 216.58.197.179     ghs46.l.google.com
-172.217.161.51     www.nianticlabs.com
-172.217.161.51     gsamplemaps.googlepages.com
+172.217.25.243     www.nianticlabs.com
+172.217.25.243     gsamplemaps.googlepages.com
 172.217.31.147     javascript-blocker.toggleable.com
 172.217.31.147     goto.ext.google.com
-172.217.24.147     webrtc.org
-172.217.31.147     www.webrtc.org
+172.217.25.211     webrtc.org
+172.217.31.179     www.webrtc.org
 216.58.197.243     chromeexperiments.com
 172.217.31.147     www.chromeexperiments.com
 172.217.31.147     vr.chromeexperiments.com
 172.217.31.147     globe.chromeexperiments.com
 172.217.31.147     workshop.chromeexperiments.com
-172.217.31.179     www.gwtproject.org
+172.217.31.147     www.gwtproject.org
 172.217.31.147     www.html5rocks.com
 172.217.31.147     slides.html5rocks.com
 172.217.31.147     playground.html5rocks.com
@@ -2907,30 +2908,30 @@
 172.217.31.147     lists.webmproject.org
 172.217.25.115     www.waveprotocol.org
 216.239.32.29      www.20thingsilearned.com
-172.217.31.147     www.creativelab5.com
+172.217.161.83     www.creativelab5.com
 172.217.31.147     blog.webmproject.org
 172.217.25.115     www.agoogleaday.com
 172.217.31.147     www.gosetsuden.jp
 172.217.31.147     www.thegooglepuzzle.com
-172.217.31.179     www.thegobridgeoglepuzzle.com
-172.217.31.147     www.googlezeitgeist.com
+172.217.31.147     www.thegobridgeoglepuzzle.com
+172.217.31.179     www.googlezeitgeist.com
 172.217.31.147     news.dartlang.org
 172.217.31.147     dartpad.dartlang.org
 # Google:ghs End
 
 # Google:gcm Start
-74.125.23.188      mobile-gtalk.l.google.com
-74.125.23.188      mtalk.google.com
+74.125.204.188     mobile-gtalk.l.google.com
+74.125.204.188     mtalk.google.com
 64.233.187.188     gcm.googleapis.com
 64.233.187.188     gcm.l.google.com
 64.233.187.188     gcm-xmpp.googleapis.com
 74.125.23.188      gcm-preprod.l.google.com
 74.125.23.188      gcm-preprod.googleapis.com
-172.217.161.42     gcm-http.googleapis.com
+172.217.31.138     gcm-http.googleapis.com
 # Google:gcm End
 
 # Goole:duo Start
-172.217.161.42     instantmessaging-pa.googleapis.com
+172.217.31.138     instantmessaging-pa.googleapis.com
 # Goole:duo End
 
 # Google:A-GPS Start
@@ -3147,14 +3148,14 @@
 
 # HumbleBundle Start
 54.249.82.169      humble.pubnub.com
-104.20.34.236      humblebundle.com
-96.17.151.16       humblebundle-a.akamaihd.net
+104.20.35.236      humblebundle.com
+96.17.151.17       humblebundle-a.akamaihd.net
 52.36.140.12       pubnub.com
 172.217.161.51     www.humblebundle.com
 # HumbleBundle End
 
 # imgur Start
-151.101.40.193     imgur.com
+151.101.24.193     imgur.com
 151.101.24.193     m.imgur.com
 151.101.24.193     api.imgur.com
 151.101.24.193     www.imgur.com
@@ -3166,15 +3167,15 @@
 
 # Ingress Start
 52.9.153.141       appload.ingest.crittercism.com
-54.241.5.138       api.crittercism.com
-54.193.253.6       txn.ingest.crittercism.com
+54.241.32.10       api.crittercism.com
+54.193.253.3       txn.ingest.crittercism.com
 169.44.145.213     bootstrap.upsight-api.com
 169.44.145.213     single.upsight-api.com
 169.44.145.213     batch.upsight-api.com
 # Ingress End
 
 # Instagram Start
-34.233.27.48       instagram.com
+3.212.114.43       instagram.com
 31.13.82.174       www.instagram.com
 31.13.82.52        i.instagram.com
 31.13.82.52        api.instagram.com
@@ -3191,81 +3192,81 @@
 157.240.15.63      scontent-hkg3-2.cdninstagram.com
 31.13.82.52        graph.instagram.com
 31.13.82.52        platform.instagram.com
-96.17.151.17       igcdn-videos-a-5-a.akamaihd.net
+96.17.151.10       igcdn-videos-a-5-a.akamaihd.net
 96.17.151.142      igcdn-videos-a-6-a.akamaihd.net
 96.17.151.16       igcdn-videos-a-7-a.akamaihd.net
-96.17.151.142      igcdn-videos-a-8-a.akamaihd.net
-96.17.151.10       igcdn-videos-a-9-a.akamaihd.net
+96.17.151.16       igcdn-videos-a-8-a.akamaihd.net
+96.17.151.148      igcdn-videos-a-9-a.akamaihd.net
 96.17.151.16       igcdn-videos-a-10-a.akamaihd.net
 96.17.151.19       igcdn-videos-a-11-a.akamaihd.net
 96.17.151.10       igcdn-videos-a-12-a.akamaihd.net
 96.17.151.16       igcdn-videos-a-13-a.akamaihd.net
-96.17.151.18       igcdn-videos-a-14-a.akamaihd.net
-96.17.151.17       igcdn-videos-a-15-a.akamaihd.net
-96.17.151.18       igcdn-videos-a-16-a.akamaihd.net
-96.17.151.142      igcdn-videos-a-17-a.akamaihd.net
-96.17.151.18       igcdn-videos-a-18-a.akamaihd.net
+96.17.151.148      igcdn-videos-a-14-a.akamaihd.net
+96.17.151.10       igcdn-videos-a-15-a.akamaihd.net
+96.17.151.16       igcdn-videos-a-16-a.akamaihd.net
+96.17.151.16       igcdn-videos-a-17-a.akamaihd.net
+96.17.151.141      igcdn-videos-a-18-a.akamaihd.net
 96.17.151.148      igcdn-videos-a-19-a.akamaihd.net
 96.17.151.147      igcdn-videos-b-4-a.akamaihd.net
-96.17.151.149      igcdn-videos-b-5-a.akamaihd.net
+96.17.151.18       igcdn-videos-b-5-a.akamaihd.net
 96.17.151.142      igcdn-videos-b-6-a.akamaihd.net
 96.17.151.16       igcdn-videos-b-7-a.akamaihd.net
 96.17.151.175      igcdn-videos-b-8-a.akamaihd.net
 96.17.151.11       igcdn-videos-b-9-a.akamaihd.net
 96.17.151.142      igcdn-videos-b-10-a.akamaihd.net
 96.17.151.148      igcdn-videos-b-11-a.akamaihd.net
-96.17.151.11       igcdn-videos-b-12-a.akamaihd.net
-96.17.151.17       igcdn-videos-b-13-a.akamaihd.net
+96.17.151.10       igcdn-videos-b-12-a.akamaihd.net
+96.17.151.19       igcdn-videos-b-13-a.akamaihd.net
 96.17.151.11       igcdn-videos-b-14-a.akamaihd.net
 96.17.151.141      igcdn-videos-b-15-a.akamaihd.net
-96.17.151.149      igcdn-videos-b-16-a.akamaihd.net
+96.17.151.19       igcdn-videos-b-16-a.akamaihd.net
 96.17.151.141      igcdn-videos-b-17-a.akamaihd.net
 96.17.151.149      igcdn-videos-b-18-a.akamaihd.net
-96.17.151.17       igcdn-videos-b-19-a.akamaihd.net
-96.17.151.16       igcdn-videos-c-0-a.akamaihd.net
-96.17.151.147      igcdn-videos-c-1-a.akamaihd.net
-96.17.151.10       igcdn-videos-c-2-a.akamaihd.net
-96.17.151.10       igcdn-videos-c-3-a.akamaihd.net
+96.17.151.148      igcdn-videos-b-19-a.akamaihd.net
+96.17.151.18       igcdn-videos-c-0-a.akamaihd.net
+96.17.151.141      igcdn-videos-c-1-a.akamaihd.net
+96.17.151.18       igcdn-videos-c-2-a.akamaihd.net
+96.17.151.16       igcdn-videos-c-3-a.akamaihd.net
 96.17.151.147      igcdn-videos-c-4-a.akamaihd.net
 96.17.151.175      igcdn-videos-c-5-a.akamaihd.net
 96.17.151.147      igcdn-videos-c-6-a.akamaihd.net
-96.17.151.147      igcdn-videos-c-7-a.akamaihd.net
+96.17.151.141      igcdn-videos-c-7-a.akamaihd.net
 96.17.151.10       igcdn-videos-c-8-a.akamaihd.net
-96.17.151.175      igcdn-videos-c-9-a.akamaihd.net
-96.17.151.139      igcdn-videos-c-10-a.akamaihd.net
-96.17.151.18       igcdn-videos-c-11-a.akamaihd.net
-96.17.151.16       igcdn-videos-c-12-a.akamaihd.net
+96.17.151.16       igcdn-videos-c-9-a.akamaihd.net
+96.17.151.175      igcdn-videos-c-10-a.akamaihd.net
+96.17.151.19       igcdn-videos-c-11-a.akamaihd.net
+96.17.151.19       igcdn-videos-c-12-a.akamaihd.net
 96.17.151.19       igcdn-videos-c-13-a.akamaihd.net
 96.17.151.148      igcdn-videos-c-14-a.akamaihd.net
 96.17.151.19       igcdn-videos-c-15-a.akamaihd.net
 96.17.151.139      igcdn-videos-c-16-a.akamaihd.net
 96.17.151.10       igcdn-videos-c-17-a.akamaihd.net
 96.17.151.16       igcdn-videos-c-18-a.akamaihd.net
-96.17.151.141      igcdn-videos-c-19-a.akamaihd.net
+96.17.151.11       igcdn-videos-c-19-a.akamaihd.net
 96.17.151.148      igcdn-videos-d-0-a.akamaihd.net
-96.17.151.139      igcdn-videos-d-1-a.akamaihd.net
-96.17.151.175      igcdn-videos-d-2-a.akamaihd.net
-96.17.151.19       igcdn-videos-d-3-a.akamaihd.net
-96.17.151.149      igcdn-videos-d-4-a.akamaihd.net
+96.17.151.149      igcdn-videos-d-1-a.akamaihd.net
+96.17.151.149      igcdn-videos-d-2-a.akamaihd.net
+96.17.151.149      igcdn-videos-d-3-a.akamaihd.net
+96.17.151.141      igcdn-videos-d-4-a.akamaihd.net
 96.17.151.148      igcdn-videos-d-5-a.akamaihd.net
-96.17.151.18       igcdn-videos-d-6-a.akamaihd.net
-96.17.151.147      igcdn-videos-d-7-a.akamaihd.net
+96.17.151.17       igcdn-videos-d-6-a.akamaihd.net
+96.17.151.18       igcdn-videos-d-7-a.akamaihd.net
 96.17.151.147      igcdn-videos-d-8-a.akamaihd.net
 96.17.151.142      igcdn-videos-d-9-a.akamaihd.net
-96.17.151.17       igcdn-videos-d-10-a.akamaihd.net
+96.17.151.149      igcdn-videos-d-10-a.akamaihd.net
 96.17.151.147      igcdn-videos-d-11-a.akamaihd.net
 96.17.151.141      igcdn-videos-d-12-a.akamaihd.net
-96.17.151.19       igcdn-videos-d-13-a.akamaihd.net
+96.17.151.18       igcdn-videos-d-13-a.akamaihd.net
 96.17.151.148      igcdn-videos-d-14-a.akamaihd.net
-96.17.151.16       igcdn-videos-d-15-a.akamaihd.net
+96.17.151.17       igcdn-videos-d-15-a.akamaihd.net
 96.17.151.141      igcdn-videos-d-16-a.akamaihd.net
-96.17.151.175      igcdn-videos-d-17-a.akamaihd.net
+96.17.151.11       igcdn-videos-d-17-a.akamaihd.net
 96.17.151.142      igcdn-videos-d-18-a.akamaihd.net
-96.17.151.19       igcdn-videos-d-19-a.akamaihd.net
+96.17.151.11       igcdn-videos-d-19-a.akamaihd.net
 96.17.151.142      igcdn-videos-e-0-a.akamaihd.net
 96.17.151.19       igcdn-videos-e-1-a.akamaihd.net
-96.17.151.16       igcdn-videos-e-2-a.akamaihd.net
-96.17.151.147      igcdn-videos-e-3-a.akamaihd.net
+96.17.151.19       igcdn-videos-e-2-a.akamaihd.net
+96.17.151.18       igcdn-videos-e-3-a.akamaihd.net
 96.17.151.19       igcdn-videos-e-4-a.akamaihd.net
 96.17.151.139      igcdn-videos-e-5-a.akamaihd.net
 96.17.151.11       igcdn-videos-e-6-a.akamaihd.net
@@ -3273,93 +3274,93 @@
 96.17.151.16       igcdn-videos-e-8-a.akamaihd.net
 96.17.151.141      igcdn-videos-e-9-a.akamaihd.net
 96.17.151.139      igcdn-videos-e-10-a.akamaihd.net
-96.17.151.19       igcdn-videos-e-11-a.akamaihd.net
-96.17.151.175      igcdn-videos-e-12-a.akamaihd.net
+96.17.151.16       igcdn-videos-e-11-a.akamaihd.net
+96.17.151.148      igcdn-videos-e-12-a.akamaihd.net
 96.17.151.149      igcdn-videos-e-13-a.akamaihd.net
 96.17.151.16       igcdn-videos-e-14-a.akamaihd.net
-96.17.151.141      igcdn-videos-e-15-a.akamaihd.net
-96.17.151.141      igcdn-videos-e-16-a.akamaihd.net
-96.17.151.16       igcdn-videos-e-17-a.akamaihd.net
+96.17.151.19       igcdn-videos-e-15-a.akamaihd.net
+96.17.151.19       igcdn-videos-e-16-a.akamaihd.net
+96.17.151.19       igcdn-videos-e-17-a.akamaihd.net
 96.17.151.141      igcdn-videos-e-18-a.akamaihd.net
-96.17.151.139      igcdn-videos-e-19-a.akamaihd.net
-96.17.151.142      igcdn-videos-f-0-a.akamaihd.net
-96.17.151.147      igcdn-videos-f-1-a.akamaihd.net
-96.17.151.11       igcdn-videos-f-2-a.akamaihd.net
-96.17.151.139      igcdn-videos-f-3-a.akamaihd.net
+96.17.151.142      igcdn-videos-e-19-a.akamaihd.net
+96.17.151.148      igcdn-videos-f-0-a.akamaihd.net
+96.17.151.19       igcdn-videos-f-1-a.akamaihd.net
+96.17.151.17       igcdn-videos-f-2-a.akamaihd.net
+96.17.151.18       igcdn-videos-f-3-a.akamaihd.net
 96.17.151.11       igcdn-videos-f-4-a.akamaihd.net
-96.17.151.10       igcdn-videos-f-5-a.akamaihd.net
+96.17.151.17       igcdn-videos-f-5-a.akamaihd.net
 96.17.151.149      igcdn-videos-f-6-a.akamaihd.net
 96.17.151.141      igcdn-videos-f-7-a.akamaihd.net
 96.17.151.10       igcdn-videos-f-8-a.akamaihd.net
 96.17.151.141      igcdn-videos-f-9-a.akamaihd.net
 96.17.151.18       igcdn-videos-f-10-a.akamaihd.net
 96.17.151.142      igcdn-videos-f-11-a.akamaihd.net
-96.17.151.139      igcdn-videos-f-12-a.akamaihd.net
+96.17.151.175      igcdn-videos-f-12-a.akamaihd.net
 96.17.151.19       igcdn-videos-f-13-a.akamaihd.net
 96.17.151.139      igcdn-videos-f-14-a.akamaihd.net
 96.17.151.149      igcdn-videos-f-15-a.akamaihd.net
 96.17.151.139      igcdn-videos-f-16-a.akamaihd.net
-96.17.151.147      igcdn-videos-f-17-a.akamaihd.net
+96.17.151.17       igcdn-videos-f-17-a.akamaihd.net
 96.17.151.148      igcdn-videos-f-18-a.akamaihd.net
-96.17.151.11       igcdn-videos-f-19-a.akamaihd.net
+96.17.151.149      igcdn-videos-f-19-a.akamaihd.net
 96.17.151.148      igcdn-videos-g-0-a.akamaihd.net
 96.17.151.148      igcdn-videos-g-1-a.akamaihd.net
-96.17.151.18       igcdn-videos-g-2-a.akamaihd.net
-96.17.151.17       igcdn-videos-g-3-a.akamaihd.net
-96.17.151.18       igcdn-videos-g-4-a.akamaihd.net
-96.17.151.19       igcdn-videos-g-5-a.akamaihd.net
+96.17.151.149      igcdn-videos-g-2-a.akamaihd.net
+96.17.151.10       igcdn-videos-g-3-a.akamaihd.net
+96.17.151.139      igcdn-videos-g-4-a.akamaihd.net
+96.17.151.17       igcdn-videos-g-5-a.akamaihd.net
 96.17.151.10       igcdn-videos-g-6-a.akamaihd.net
-96.17.151.175      igcdn-videos-g-7-a.akamaihd.net
-96.17.151.149      igcdn-videos-g-8-a.akamaihd.net
+96.17.151.149      igcdn-videos-g-7-a.akamaihd.net
+96.17.151.141      igcdn-videos-g-8-a.akamaihd.net
 96.17.151.10       igcdn-videos-g-9-a.akamaihd.net
 96.17.151.19       igcdn-videos-g-10-a.akamaihd.net
 96.17.151.149      igcdn-videos-g-11-a.akamaihd.net
-96.17.151.139      igcdn-videos-g-12-a.akamaihd.net
-96.17.151.147      igcdn-videos-g-13-a.akamaihd.net
+96.17.151.10       igcdn-videos-g-12-a.akamaihd.net
+96.17.151.16       igcdn-videos-g-13-a.akamaihd.net
 96.17.151.18       igcdn-videos-g-14-a.akamaihd.net
 96.17.151.10       igcdn-videos-g-15-a.akamaihd.net
 96.17.151.142      igcdn-videos-g-16-a.akamaihd.net
 96.17.151.149      igcdn-videos-g-17-a.akamaihd.net
 96.17.151.10       igcdn-videos-g-18-a.akamaihd.net
-96.17.151.147      igcdn-videos-g-19-a.akamaihd.net
-96.17.151.147      igcdn-videos-h-0-a.akamaihd.net
-96.17.151.139      igcdn-videos-h-1-a.akamaihd.net
-96.17.151.141      igcdn-videos-h-2-a.akamaihd.net
-96.17.151.11       igcdn-videos-h-3-a.akamaihd.net
-96.17.151.16       igcdn-videos-h-4-a.akamaihd.net
-96.17.151.149      igcdn-videos-h-5-a.akamaihd.net
-96.17.151.139      igcdn-videos-h-6-a.akamaihd.net
-96.17.151.142      igcdn-videos-h-7-a.akamaihd.net
-96.17.151.19       igcdn-videos-h-8-a.akamaihd.net
+96.17.151.19       igcdn-videos-g-19-a.akamaihd.net
+96.17.151.149      igcdn-videos-h-0-a.akamaihd.net
+96.17.151.149      igcdn-videos-h-1-a.akamaihd.net
+96.17.151.139      igcdn-videos-h-2-a.akamaihd.net
+96.17.151.17       igcdn-videos-h-3-a.akamaihd.net
+96.17.151.17       igcdn-videos-h-4-a.akamaihd.net
+96.17.151.19       igcdn-videos-h-5-a.akamaihd.net
+96.17.151.11       igcdn-videos-h-6-a.akamaihd.net
+96.17.151.17       igcdn-videos-h-7-a.akamaihd.net
+96.17.151.148      igcdn-videos-h-8-a.akamaihd.net
 96.17.151.19       igcdn-videos-h-9-a.akamaihd.net
-96.17.151.147      igcdn-videos-h-10-a.akamaihd.net
+96.17.151.148      igcdn-videos-h-10-a.akamaihd.net
 96.17.151.148      igcdn-videos-h-11-a.akamaihd.net
 96.17.151.11       igcdn-videos-h-12-a.akamaihd.net
 96.17.151.142      igcdn-videos-h-13-a.akamaihd.net
-96.17.151.141      igcdn-videos-h-14-a.akamaihd.net
-96.17.151.149      igcdn-videos-h-15-a.akamaihd.net
-96.17.151.142      igcdn-videos-h-16-a.akamaihd.net
+96.17.151.139      igcdn-videos-h-14-a.akamaihd.net
+96.17.151.11       igcdn-videos-h-15-a.akamaihd.net
+96.17.151.17       igcdn-videos-h-16-a.akamaihd.net
 96.17.151.19       igcdn-videos-h-17-a.akamaihd.net
 96.17.151.142      igcdn-videos-h-18-a.akamaihd.net
-96.17.151.18       igcdn-videos-h-19-a.akamaihd.net
-96.17.151.16       instagramimages-a.akamaihd.net
-96.17.151.139      instagramstatic-a.akamaihd.net
+96.17.151.139      igcdn-videos-h-19-a.akamaihd.net
+96.17.151.11       instagramimages-a.akamaihd.net
+96.17.151.141      instagramstatic-a.akamaihd.net
 # Instagram End
 
 # issuu Start
-52.204.95.246      issuu.com
-3.227.59.230       www.issuu.com
+54.87.66.245       issuu.com
+54.87.66.245       www.issuu.com
 104.198.58.34      blog.issuu.com
-3.227.59.230       developers.issuu.com
+54.87.66.245       developers.issuu.com
 35.241.35.151      pingback.issuu.com
-151.101.230.110    photo.issuu.com
-3.227.59.230       page.issuu.com
-151.101.230.110    image.issuu.com
+151.101.74.110     photo.issuu.com
+54.87.66.245       page.issuu.com
+151.101.74.110     image.issuu.com
 52.1.172.141       api.issuu.com
-151.101.230.110    content.issuu.com
-151.101.230.110    e.issuu.com
-151.101.230.110    static.issuu.com
-151.101.230.110    skin.issuu.com
+151.101.74.110     content.issuu.com
+151.101.74.110     e.issuu.com
+151.101.74.110     static.issuu.com
+151.101.74.110     skin.issuu.com
 104.16.54.111      help.issuu.com
 # issuu End
 
@@ -3440,22 +3441,22 @@
 203.104.142.52     lan.line.me
 147.92.145.24      w.line.me
 104.78.76.24       scdn.line-apps.com
-203.104.150.4      obs.line-apps.com
-125.209.238.209    obs-cn.line-apps.com
-203.104.150.4      obs-tw.line-apps.com
-147.92.249.2       gd2.line.naver.jp
-147.92.249.2       gw.line.naver.jp
-203.104.160.12     gd2u.line.naver.jp
-203.104.174.19     gd2s.line.naver.jp
-203.104.174.19     gd2v.line.naver.jp
+203.104.153.135    obs.line-apps.com
+125.209.238.181    obs-cn.line-apps.com
+203.104.153.135    obs-tw.line-apps.com
+203.104.150.2      gd2.line.naver.jp
+203.104.150.2      gw.line.naver.jp
+203.104.160.11     gd2u.line.naver.jp
+203.104.174.20     gd2s.line.naver.jp
+203.104.174.20     gd2v.line.naver.jp
 125.209.252.17     gd2g.line.naver.jp
 125.209.252.17     gd2i.line.naver.jp
-125.209.222.202    gd2k.line.naver.jp
-125.209.222.202    gd2w.line.naver.jp
-125.209.222.202    gww.line.naver.jp
-147.92.249.2       gwx.line.naver.jp
+125.209.222.59     gd2k.line.naver.jp
+125.209.222.59     gd2w.line.naver.jp
+125.209.222.59     gww.line.naver.jp
+203.104.150.2      gwx.line.naver.jp
 23.33.178.113      dl.profile.line.naver.jp
-23.33.178.114      dl.stickershop.line.naver.jp
+23.33.178.74       dl.stickershop.line.naver.jp
 203.104.150.35     static.line.naver.jp
 # Line End
 
@@ -3466,13 +3467,13 @@
 # Medium Start
 104.16.120.127     medium.com
 104.16.121.145     api.medium.com
-104.16.121.145     cdn-static-1.medium.com
-104.16.120.145     cdn-images-1.medium.com
+104.16.118.145     cdn-static-1.medium.com
+104.16.118.145     cdn-images-1.medium.com
 104.16.117.145     cdn-images-2.medium.com
 # Medium End
 
 # MEGA Start
-31.216.147.133     eu.api.mega.co.nz
+31.216.147.134     eu.api.mega.co.nz
 31.216.148.11      eu.static.mega.co.nz
 117.18.237.188     g.cdn1.mega.co.nz
 31.216.147.130     mega.co.nz
@@ -3482,14 +3483,14 @@
 
 # nytimes for mobile Start
 52.87.20.13        messaging-sub.api.nytimes.com
-52.4.86.34         et.nytimes.com
+52.72.218.17       et.nytimes.com
 13.115.69.107      sso.nytcn.me
-208.100.17.185     ic.tynt.com
+208.100.17.188     ic.tynt.com
 151.101.229.164    vp.nyt.com
 13.224.143.116     m.cn.nytstyle.com
 151.101.129.164    nytimes.com
-13.224.143.23      cn.nytimes.com
-13.224.143.108     m.cn.nytimes.com
+13.224.143.73      cn.nytimes.com
+13.224.143.101     m.cn.nytimes.com
 151.101.229.164    www.nytimes.com
 151.101.229.164    graphics8.nytimes.com
 151.101.229.164    json8.nytimes.com
@@ -3512,7 +3513,7 @@
 13.107.42.12       api.onedrive.com
 104.78.94.148      api.onedrive.live.com
 13.107.42.13       onedrive.live.com
-40.90.136.179      skyapi.onedrive.live.com
+40.90.136.182      skyapi.onedrive.live.com
 13.107.42.11       outlook.live.com
 # OneDrive End
 
@@ -3559,7 +3560,7 @@
 185.26.181.242     global-4-lvs-odra-2.opera-mini.net
 185.26.181.253     global-4-lvs-odra.opera-mini.net
 141.0.11.251       af.opera-mini.net
-107.167.110.211    sitecheck.opera-mini.net
+107.167.110.216    sitecheck.opera-mini.net
 35.199.174.154     global-max-1.opera-mini.net
 82.145.221.193     n11-07-07.opera-mini.net
 37.228.107.253     global-4-lvs-hopper.opera-mini.net
@@ -3568,80 +3569,80 @@
 
 # pinterest Start
 151.101.192.84     pinterest.com
-151.101.228.84     www.pinterest.com
-151.101.228.84     www.pinterest.jp
-151.101.228.84     about.pinterest.com
-151.101.228.84     blog.pinterest.com
-151.101.228.84     ads.pinterest.com
-151.101.228.84     analytics.pinterest.com
-151.101.228.84     br.pinterest.com
-151.101.228.84     business.pinterest.com
-151.101.228.84     canary.pinterest.com
-151.101.228.84     cz.pinterest.com
-151.101.228.84     de.pinterest.com
-151.101.228.84     dev.pinterest.com
-151.101.228.84     dk.pinterest.com
-151.101.228.84     es.pinterest.com
-151.101.228.84     fi.pinterest.com
-151.101.228.84     fr.pinterest.com
-151.101.228.84     gr.pinterest.com
-151.101.228.84     help.pinterest.com
-151.101.228.84     hu.pinterest.com
-151.101.228.84     id.pinterest.com
-151.101.228.84     in.pinterest.com
-151.101.228.84     it.pinterest.com
-151.101.228.84     jp.pinterest.com
-151.101.228.84     kr.pinterest.com
-151.101.228.84     media-cache-ec0.pinterest.com
-151.101.228.84     pl.pinterest.com
-151.101.228.84     pt.pinterest.com
-151.101.228.84     ro.pinterest.com
-151.101.228.84     ru.pinterest.com
-151.101.228.84     se.pinterest.com
-151.101.228.84     sk.pinterest.com
-151.101.228.84     tr.pinterest.com
-151.101.228.84     uk.pinterest.com
-151.101.228.84     no.pinterest.com
-151.101.228.84     engineering.pinterest.com
-151.101.228.84     api.pinterest.com
-151.101.228.84     nl.pinterest.com
+23.217.125.3       www.pinterest.com
+23.217.125.3       www.pinterest.jp
+151.101.72.84      about.pinterest.com
+151.101.72.84      blog.pinterest.com
+23.217.125.3       ads.pinterest.com
+23.217.125.3       analytics.pinterest.com
+23.217.125.3       br.pinterest.com
+151.101.72.84      business.pinterest.com
+23.217.125.3       canary.pinterest.com
+23.217.125.3       cz.pinterest.com
+23.217.125.3       de.pinterest.com
+151.101.72.84      dev.pinterest.com
+23.217.125.3       dk.pinterest.com
+23.217.125.3       es.pinterest.com
+23.217.125.3       fi.pinterest.com
+23.217.125.3       fr.pinterest.com
+23.217.125.3       gr.pinterest.com
+151.101.72.84      help.pinterest.com
+23.217.125.3       hu.pinterest.com
+23.217.125.3       id.pinterest.com
+23.217.125.3       in.pinterest.com
+23.217.125.3       it.pinterest.com
+23.217.125.3       jp.pinterest.com
+23.217.125.3       kr.pinterest.com
+151.101.72.84      media-cache-ec0.pinterest.com
+23.217.125.3       pl.pinterest.com
+23.217.125.3       pt.pinterest.com
+23.217.125.3       ro.pinterest.com
+23.217.125.3       ru.pinterest.com
+23.217.125.3       se.pinterest.com
+23.217.125.3       sk.pinterest.com
+23.217.125.3       tr.pinterest.com
+23.217.125.3       uk.pinterest.com
+23.217.125.3       no.pinterest.com
+151.101.72.84      engineering.pinterest.com
+23.217.125.3       api.pinterest.com
+23.217.125.3       nl.pinterest.com
 104.78.25.29       passets-cdn.pinterest.com
-50.112.169.154     post.pinterest.com
-23.20.165.22       trk.pinterest.com
+52.42.184.183      post.pinterest.com
+50.17.2.67         trk.pinterest.com
 104.78.25.29       s.pinimg.com
 104.78.25.29       i.pinimg.com
 104.78.25.29       v.pinimg.com
 104.78.25.29       s-media-cache-ak0.pinimg.com
-151.101.228.84     developers.pinterest.com
+151.101.72.84      developers.pinterest.com
 # pinterest End
 
 # Periscope Start
-52.199.134.57      pscp.tv
+52.197.71.135      pscp.tv
 52.199.134.57      www.pscp.tv
-35.161.110.36      channels.pscp.tv
-52.11.172.11       proxsee.pscp.tv
+34.211.240.82      channels.pscp.tv
+34.209.112.55      proxsee.pscp.tv
 13.224.150.110     assets.pscp.tv
 13.224.150.110     prod-profile.pscp.tv
 13.224.150.110     prod-thumbnail.pscp.tv
-151.101.230.164    prod-video-ap-northeast-1.pscp.tv
-151.101.230.164    prod-video-ap-southeast-1.pscp.tv
-151.101.230.164    prod-video-ap-southeast-2.pscp.tv
-151.101.230.164    prod-video-eu-central-1.pscp.tv
-151.101.230.164    prod-video-eu-west-1.pscp.tv
-151.101.230.164    prod-video-us-east-1.pscp.tv
-151.101.230.164    prod-video-us-west-1.pscp.tv
-151.101.230.164    prod-video-us-west-2.pscp.tv
-151.101.230.164    prod-video-sa-east-1.pscp.tv
-52.58.199.81       prod-chatman-ancillary-eu-central-1.pscp.tv
-34.237.219.194     prod-chatman-ancillary-us-east-1.pscp.tv
+151.101.74.164     prod-video-ap-northeast-1.pscp.tv
+151.101.74.164     prod-video-ap-southeast-1.pscp.tv
+151.101.74.164     prod-video-ap-southeast-2.pscp.tv
+151.101.74.164     prod-video-eu-central-1.pscp.tv
+151.101.74.164     prod-video-eu-west-1.pscp.tv
+151.101.74.164     prod-video-us-east-1.pscp.tv
+151.101.74.164     prod-video-us-west-1.pscp.tv
+151.101.74.164     prod-video-us-west-2.pscp.tv
+151.101.74.164     prod-video-sa-east-1.pscp.tv
+3.120.61.174       prod-chatman-ancillary-eu-central-1.pscp.tv
+34.202.199.176     prod-chatman-ancillary-us-east-1.pscp.tv
 54.149.114.170     prod-chatman-ancillary-us-west-2.pscp.tv
 # Periscope End
 
 # Psiphon Start
-13.224.143.5       psiphon3.com
-13.224.143.36      www.psiphon3.com
-104.18.88.225      psiphon.ca
-104.18.88.225      www.psiphon.ca
+13.224.143.77      psiphon3.com
+13.224.143.5       www.psiphon3.com
+104.18.87.225      psiphon.ca
+104.18.87.225      www.psiphon.ca
 # Psiphon End
 
 # RawGit Start
@@ -3650,13 +3651,13 @@
 
 # Resilio Sync Start
 13.224.143.14      getsync.com
-13.224.143.81      config.getsync.com
-13.224.143.105     download-cdn.getsync.com
-54.85.203.93       update.getsync.com
-13.224.143.14      www.getsync.com
-13.224.143.77      config.resilio.com
-13.224.143.40      www.resilio.com
-54.172.115.1       new-bench.resilio.com
+13.224.143.86      config.getsync.com
+13.224.143.98      download-cdn.getsync.com
+52.1.101.45        update.getsync.com
+13.224.143.32      www.getsync.com
+13.224.143.38      config.resilio.com
+13.224.143.13      www.resilio.com
+34.196.17.71       new-bench.resilio.com
 # Resilio Sync End
 
 # slideshare Start
@@ -3679,29 +3680,29 @@
 13.224.139.48      soundcloud.com
 13.224.139.37      www.soundcloud.com
 68.232.44.127      m.soundcloud.com
-13.224.139.51      api.soundcloud.com
-13.224.139.51      api-mobile.soundcloud.com
-13.224.139.51      api-v2.soundcloud.com
-13.224.139.48      on.soundcloud.com
-13.224.139.35      promoted.soundcloud.com
-13.224.143.18      visuals.soundcloud.com
+13.224.139.50      api.soundcloud.com
+13.224.139.50      api-mobile.soundcloud.com
+13.224.139.50      api-v2.soundcloud.com
+13.224.139.37      on.soundcloud.com
+13.224.139.37      promoted.soundcloud.com
+13.224.143.127     visuals.soundcloud.com
 104.196.1.106      blog.soundcloud.com
-13.224.143.112     a1.sndcdn.com
-13.224.143.95      a-v2.sndcdn.com
+13.224.143.65      a1.sndcdn.com
+13.224.143.55      a-v2.sndcdn.com
 68.232.44.96       ec-preview-media.sndcdn.com
 13.224.143.17      style.sndcdn.com
-13.224.143.61      va.sndcdn.com
-13.224.143.80      cf-media.sndcdn.com
+13.224.143.16      va.sndcdn.com
+13.224.143.84      cf-media.sndcdn.com
 68.232.45.77       ec-media.sndcdn.com
-13.224.139.35      eventgateway.soundcloud.com
-13.224.139.35      telemetry.soundcloud.com
+13.224.139.37      eventgateway.soundcloud.com
+13.224.139.37      telemetry.soundcloud.com
 # SoundCloud End
 
 # Startpage & Ixquick Start
-37.0.87.7          startpage.com
-37.0.87.7          www.startpage.com
-37.0.86.42         www.ixquick.com
-37.0.86.42         ixquick.com
+216.218.239.2      startpage.com
+216.218.239.2      www.startpage.com
+64.71.175.183      www.ixquick.com
+64.71.175.183      ixquick.com
 37.0.89.56         support.startpage.com
 37.0.89.57         support.ixquick.com
 # Startpage & Ixquick End
@@ -3735,7 +3736,7 @@
 210.200.141.52     fs.thebodyshop.com.tw
 210.71.198.143     shop.thebodyshop.com.tw
 104.78.9.221       assets.thebodyshop.com
-99.86.129.52       apps.nexus.bazaarvoice.com
+99.86.129.120      apps.nexus.bazaarvoice.com
 # thebodyshop End
 
 # theinitium Start
@@ -3748,22 +3749,22 @@
 # Tor Start
 95.216.163.36      torproject.org
 95.216.163.36      www.torproject.org
-138.201.14.197     atlas.torproject.org
-138.201.14.197     bugs.torproject.org
-138.201.14.197     cloud.torproject.org
-138.201.14.197     consensus-health.torproject.org
-138.201.14.197     deb.torproject.org
-138.201.14.197     dist.torproject.org
-138.201.14.197     extra.torproject.org
-138.201.14.197     gettor.torproject.org
-138.201.14.197     help.torproject.org
-138.201.14.197     onion.torproject.org
-138.201.14.197     ooni.torproject.org
-138.201.14.197     research.torproject.org
-138.201.14.197     spec.torproject.org
-138.201.14.197     stem.torproject.org
-138.201.14.197     tb-manual.torproject.org
-138.201.14.197     wiki.torproject.org
+95.216.163.36      atlas.torproject.org
+95.216.163.36      bugs.torproject.org
+95.216.163.36      cloud.torproject.org
+95.216.163.36      consensus-health.torproject.org
+95.216.163.36      deb.torproject.org
+94.130.28.204      dist.torproject.org
+95.216.163.36      extra.torproject.org
+95.216.163.36      gettor.torproject.org
+95.216.163.36      help.torproject.org
+95.216.163.36      onion.torproject.org
+82.195.75.101      ooni.torproject.org
+95.216.163.36      research.torproject.org
+95.216.163.36      spec.torproject.org
+95.216.163.36      stem.torproject.org
+95.216.163.36      tb-manual.torproject.org
+95.216.163.36      wiki.torproject.org
 159.69.63.226      archive.torproject.org
 82.195.75.101      media.torproject.org
 23.185.0.2         blog.torproject.org
@@ -3778,7 +3779,7 @@
 161.47.6.182       labs.torproject.org
 94.130.28.202      lists.torproject.org
 94.130.28.195      metrics.torproject.org
-138.201.212.233    onionoo.torproject.org
+89.45.235.19       onionoo.torproject.org
 37.218.242.173     explorer.ooni.torproject.org
 195.201.54.244     people.torproject.org
 138.201.212.230    rt.torproject.org
@@ -3788,14 +3789,14 @@
 # Tor End
 
 # Travis CI Start
-151.101.109.194    travis-ci-org.global.ssl.fastly.net
+151.101.229.194    travis-ci-org.global.ssl.fastly.net
 # Travis CI End
 
 # Tumblr Start
 66.6.33.159        tumblr.com
 152.199.43.87      www.tumblr.com
-54.236.70.234      tumblr.co
-209.73.190.13      api.tumblr.com
+107.23.241.100     tumblr.co
+209.73.190.14      api.tumblr.com
 152.199.43.87      vt.tumblr.com
 152.199.43.87      assets.tumblr.com
 152.199.43.87      media.tumblr.com
@@ -3841,14 +3842,14 @@
 # Tumblr End
 
 # Twitter Start
-104.244.42.1       twitter.com
-104.244.42.1       www.twitter.com
-104.244.42.130     api.twitter.com
-104.244.42.3       caps.twitter.com
+104.244.42.193     twitter.com
+104.244.42.193     www.twitter.com
+104.244.42.66      api.twitter.com
+104.244.42.67      caps.twitter.com
 104.244.42.70      mobile.twitter.com
-104.244.42.7       support.twitter.com
+104.244.42.199     support.twitter.com
 104.244.42.203     upload.twitter.com
-104.244.42.132     tweetdeck.twitter.com
+104.244.42.196     tweetdeck.twitter.com
 104.244.42.136     syndication.twitter.com
 104.244.42.3       about.twitter.com
 104.244.42.3       blog.twitter.com
@@ -3864,49 +3865,49 @@
 104.244.42.3       assets4.twitter.com
 104.244.42.3       static.twitter.com
 104.244.42.3       help.twitter.com
-199.59.148.140     ton.twitter.com
+199.59.148.150     ton.twitter.com
 104.244.42.3       s.twitter.com
 104.244.42.3       analytics.twitter.com
-199.59.148.246     urls-real.api.twitter.com
+199.59.148.149     urls-real.api.twitter.com
 199.59.148.11      userstream.twitter.com
 199.59.150.42      sitestream.twitter.com
-104.244.42.131     stream.twitter.com
-104.244.42.132     tdweb.twitter.com
-151.101.192.159    twitpic.com
+199.59.150.42      stream.twitter.com
+104.244.42.196     tdweb.twitter.com
+151.101.64.159     twitpic.com
 173.236.31.146     m1.twitpic.com
-151.101.128.159    web1.twitpic.com
-151.101.64.159     web10.twitpic.com
-151.101.0.159      web2.twitpic.com
-151.101.64.159     web3.twitpic.com
-151.101.0.159      web4.twitpic.com
-151.101.128.159    web5.twitpic.com
-151.101.0.159      web6.twitpic.com
-151.101.0.159      web7.twitpic.com
-151.101.192.159    web8.twitpic.com
+151.101.64.159     web1.twitpic.com
+151.101.0.159      web10.twitpic.com
+151.101.192.159    web2.twitpic.com
+151.101.0.159      web3.twitpic.com
+151.101.64.159     web4.twitpic.com
+151.101.64.159     web5.twitpic.com
+151.101.192.159    web6.twitpic.com
+151.101.64.159     web7.twitpic.com
+151.101.64.159     web8.twitpic.com
 151.101.64.159     web9.twitpic.com
-192.229.237.96     abs.twimg.com
-192.229.237.96     g.twimg.com
-192.229.237.96     hca.twimg.com
+117.18.237.70      abs.twimg.com
+117.18.237.70      g.twimg.com
+117.18.237.70      hca.twimg.com
 151.101.228.159    p.twimg.com
 199.59.150.43      r.twimg.com
-192.229.237.96     ma.twimg.com
-192.229.237.96     pbs.twimg.com
-192.229.237.96     pbs-h2.twimg.com
-192.229.237.96     ton.twimg.com
-104.244.42.8       syndication.twimg.com
-104.244.42.9       syndication-o.twimg.com
+117.18.237.70      ma.twimg.com
+117.18.237.70      pbs.twimg.com
+117.18.237.70      pbs-h2.twimg.com
+117.18.237.70      ton.twimg.com
+104.244.42.200     syndication.twimg.com
+104.244.42.201     syndication-o.twimg.com
 199.59.150.8       tweetdeck.com
-104.244.42.132     api.tweetdeck.com
-104.244.42.132     web.tweetdeck.com
-104.244.42.132     www.tweetdeck.com
-104.244.42.132     downloads.tweetdeck.com
+104.244.42.196     api.tweetdeck.com
+104.244.42.196     web.tweetdeck.com
+104.244.42.196     www.tweetdeck.com
+104.244.42.196     downloads.tweetdeck.com
 104.244.42.136     cdn.syndication.twitter.com
 104.244.42.3       apps.twitter.com
 104.244.42.3       debates.twitter.com
-104.244.42.133     t.co
+104.244.42.69      t.co
 192.229.237.25     platform.twitter.com
 117.18.232.102     video.twimg.com
-192.229.237.96     cdn.syndication.twimg.com
+117.18.237.70      cdn.syndication.twimg.com
 # Twitter End
 
 # Vimeo Start
@@ -3914,9 +3915,9 @@
 151.101.64.217     api.vimeo.com
 151.101.64.217     www.vimeo.com
 151.101.228.217    player.vimeo.com
-151.101.110.109    i.vimeocdn.com
-151.101.110.109    f.vimeocdn.com
-151.101.73.194     vimeo-hp-videos.global.ssl.fastly.net
+151.101.230.109    i.vimeocdn.com
+151.101.230.109    f.vimeocdn.com
+151.101.229.194    vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39      click.email.vimeo.com
 # Vimeo End
 
@@ -3956,10 +3957,10 @@
 212.82.100.140     edit.yahoo.com
 212.82.100.140     sa.edit.yahoo.com
 212.82.100.140     login.yahoo.com
-87.248.114.11      mail.yahoo.com
+77.238.180.11      mail.yahoo.com
 212.82.100.140     open.login.yahoo.com
-192.0.79.32        code.flickr.com
-192.0.79.32        code.flickr.net
+192.0.79.33        code.flickr.com
+192.0.79.33        code.flickr.net
 13.224.150.164     static.flickr.com
 13.224.150.164     farm1.staticflickr.com
 13.224.150.164     farm2.staticflickr.com
@@ -3972,27 +3973,27 @@
 13.224.150.164     farm9.staticflickr.com
 13.224.142.233     flickr.com
 13.224.142.233     m.flickr.com
-52.55.135.251      secure.flickr.com
+34.201.208.68      secure.flickr.com
 13.224.142.233     www.flickr.com
-87.248.114.11      heartbeat.flickr.com
+87.248.114.12      heartbeat.flickr.com
 13.224.142.233     api.flickr.com
 13.224.142.233     up.flickr.com
-87.248.114.11      downloadr.flickr.com
-87.248.114.12      finance.yahoo.com
-87.248.114.12      hk.finance.yahoo.com
-87.248.114.12      answers.yahoo.com
-87.248.114.12      hk.answers.yahoo.com
-87.248.114.12      tw.answers.yahoo.com
+87.248.114.12      downloadr.flickr.com
+77.238.180.11      finance.yahoo.com
+77.238.180.11      hk.finance.yahoo.com
+77.238.180.11      answers.yahoo.com
+77.238.180.11      hk.answers.yahoo.com
+77.238.180.11      tw.answers.yahoo.com
 98.136.103.27      geo.yahoo.com
-124.108.115.81     tw.bid.yahoo.com
-87.248.114.12      hk.finance.yahoo.com
+180.222.102.135    tw.bid.yahoo.com
+77.238.180.11      hk.finance.yahoo.com
 67.195.231.22      tw.finance.yahoo.com
 98.136.100.143     news.yahoo.com
-98.138.219.231     hk.yahoo.com
-98.138.219.231     tw.yahoo.com
+98.137.246.8       hk.yahoo.com
+98.137.246.8       tw.yahoo.com
 98.136.100.143     tw.news.yahoo.com
 98.136.100.143     hk.news.yahoo.com
-72.30.35.9         yahoo.com
+98.138.219.232     yahoo.com
 98.136.100.143     tw.mobi.yahoo.com
 180.222.102.147    tw.mall.yahoo.com
 98.136.100.143     hk.mobi.yahoo.com
@@ -4004,35 +4005,35 @@
 
 # Youtube Start
 172.217.31.174     youtube.com
-216.58.197.206     www.youtube.com
+172.217.25.110     www.youtube.com
 172.217.31.174     ads.youtube.com
-216.58.197.206     au.youtube.com
-216.58.197.206     ca.youtube.com
-216.58.197.206     de.youtube.com
-216.58.197.206     jp.youtube.com
-216.58.197.206     ru.youtube.com
-216.58.197.206     tw.youtube.com
-216.58.197.206     uk.youtube.com
+172.217.25.238     au.youtube.com
+172.217.25.110     ca.youtube.com
+172.217.25.110     de.youtube.com
+172.217.25.238     jp.youtube.com
+172.217.25.110     ru.youtube.com
+172.217.25.110     tw.youtube.com
+172.217.25.110     uk.youtube.com
 172.217.31.174     accounts.youtube.com
-216.58.197.206     analytics.youtube.com
+172.217.25.110     analytics.youtube.com
 172.217.31.174     apiblog.youtube.com
 216.239.32.21      creatoracademy.youtube.com
 172.217.161.46     m.youtube.com
-108.177.97.100     s.youtube.com
+64.233.189.138     s.youtube.com
 172.217.31.174     gdata.youtube.com
-216.58.197.206     gaming.youtube.com
+172.217.25.110     gaming.youtube.com
 172.217.25.196     help.youtube.com
 172.217.25.238     img.youtube.com
 216.58.197.206     insight.youtube.com
 172.217.26.15      upload.youtube.com
 172.217.27.78      redirector.c.youtube.com
-216.58.197.206     studio.youtube.com
+172.217.25.110     studio.youtube.com
 216.58.197.206     tv.youtube.com
-172.217.25.97      youtube.googleblog.com
-172.217.26.10      youtube.googleapis.com
-172.217.26.10      youtubei.googleapis.com
-216.58.197.206     youtube-ui.l.google.com
-216.58.197.206     www.youtube-nocookie.com
+172.217.25.65      youtube.googleblog.com
+216.58.197.170     youtube.googleapis.com
+216.58.197.170     youtubei.googleapis.com
+172.217.25.110     youtube-ui.l.google.com
+172.217.25.110     www.youtube-nocookie.com
 # Youtube End
 
 # Google Video Start
@@ -4306,13 +4307,13 @@
 23.42.103.113      ichef.bbci.co.uk
 
 #rfi
-23.33.178.106      www.rfi.fr
+23.33.178.66       www.rfi.fr
 104.78.105.142     rfi.my
-23.33.178.120      trad.cn.rfi.fr
-23.33.178.74       scd.cn.rfi.fr
-23.33.178.74       scd.rfi.fr
+23.33.178.66       trad.cn.rfi.fr
+23.33.178.90       scd.cn.rfi.fr
+23.33.178.90       scd.rfi.fr
 104.78.105.142     static.rfi.fr
-23.33.178.120      cn.rfi.fr
+23.33.178.66       cn.rfi.fr
 
 #rfa
 184.26.113.201     www.rfa.org
@@ -4320,22 +4321,22 @@
 
 #dwnews
 13.224.143.116     www.dwnews.com
-13.224.143.23      news.dwnews.com
-13.224.143.113     pic0.dwnews.net
-13.224.143.113     pic1.dwnews.net
-13.224.143.113     pic2.dwnews.net
-13.224.143.113     pic3.dwnews.net
-13.224.143.113     pic4.dwnews.net
-13.224.143.113     pic5.dwnews.net
-13.224.143.113     pic6.dwnews.net
-13.224.143.113     pic7.dwnews.net
-13.224.143.113     pic8.dwnews.net
-13.224.143.113     pic9.dwnews.net
-13.224.143.76      s0.dwnews.net
-13.224.143.76      s1.dwnews.net
-13.224.143.76      s2.dwnews.net
-13.224.143.76      s3.dwnews.net
-13.224.143.76      s4.dwnews.net
+13.224.143.100     news.dwnews.com
+13.224.143.121     pic0.dwnews.net
+13.224.143.121     pic1.dwnews.net
+13.224.143.121     pic2.dwnews.net
+13.224.143.121     pic3.dwnews.net
+13.224.143.121     pic4.dwnews.net
+13.224.143.121     pic5.dwnews.net
+13.224.143.121     pic6.dwnews.net
+13.224.143.121     pic7.dwnews.net
+13.224.143.121     pic8.dwnews.net
+13.224.143.121     pic9.dwnews.net
+13.224.143.84      s0.dwnews.net
+13.224.143.84      s1.dwnews.net
+13.224.143.84      s2.dwnews.net
+13.224.143.84      s3.dwnews.net
+13.224.143.84      s4.dwnews.net
 13.224.143.14      culture.dwnews.com
 52.8.42.89         blog.dwnews.com
 
@@ -4346,14 +4347,14 @@
 104.27.134.125     chinanewscenter.com
 
 #chinadigitaltimes.net
-104.27.152.164     chinadigitaltimes.net
+104.27.153.164     chinadigitaltimes.net
 
 #www.hikinggfw.org
 54.235.253.182     www.hikinggfw.org
 54.235.253.182     hikinggfw.org
 
 #www.newhighlandvision.com
-104.26.4.185       www.newhighlandvision.com
+104.26.5.185       www.newhighlandvision.com
 
 151.101.192.194    cn.uncyclopedia.wikia.com
 
@@ -4361,10 +4362,10 @@
 
 13.251.73.118      dajiaweibo.com
 
-95.101.64.151      www.dw.com
+23.57.31.220       www.dw.com
 104.78.103.207     commons.dw.com
 162.249.111.210    biweeklyarchive.hrichina.org
 162.249.111.210    www.hrichina.org
 
-151.101.229.140    www.reddit.com
-#Last updated:  2019-08-24T18:53:42+08:00
+151.101.109.140    www.reddit.com
+#Last updated:  2019-08-25T05:56:54+08:00

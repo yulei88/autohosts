@@ -13,7 +13,7 @@ cat $hostslist | while read line; do
 #	        || [[ $(echo $line | grep $HOSTNAME) != "" ]]; then
         echo $line
     else
-        link=$(nslookup "$line" | sed '/^$/d' | sed -n '$p' | sed -n 's/Address: //gp')
+        link=$(nslookup -query=A "$line" | sed '/^$/d' | sed -n '$p' | sed -n 's/Address: //gp')
         if [[ "$link" != "" ]]; then
             printf "%-19s%s\n" $link $line
         fi
